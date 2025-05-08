@@ -1,8 +1,7 @@
 # Stare.js-Visualization-Template
 StArE.js Template to upload visualizations to the StArE.js Showcase, this is both a template and demo to run a visualization.
 
-This Template is based on stare.js-client made by d-salazar-se
-[text](https://github.com/StArE-js/stare.js-client)
+This Template is based on [stare.js-client made by d-salazar-se](https://github.com/StArE-js/stare.js-client)
 
 To be more precise it takes the contents of the examples folder, 
 adds the lib folder, which contains visualization files and modifies the
