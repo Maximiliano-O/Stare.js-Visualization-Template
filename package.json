@@ -1,0 +1,23 @@
+{
+  "name": "stare.js-demo",
+  "version": "1.0.0",
+  "description": "Simple StArE.js Visualization Demo",
+  "main": "index.js",
+  "author": "Diego Salazar S.",
+  "license": "MIT",
+  "dependencies": {
+    "@tweenjs/tween.js": "^18.6.0",
+    "axios": "^0.19.2",
+    "d3": "^5.15.1",
+    "debug": "^4.1.1",
+    "json-formatter-js": "^2.3.4",
+    "lodash": "^4.17.15",
+    "three": "^0.118.3"
+  },
+  "scripts": {
+    "start": "parcel serve -p 3000 watch public/index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}

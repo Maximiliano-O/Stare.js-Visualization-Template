@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>StArE.js Visualization Demo</title>
+  <link rel="stylesheet" href="https://necolas.github.io/normalize.css/8.0.1/normalize.css">
+  <link rel="stylesheet" href="./index.css"> 
+  <link rel="stylesheet" href="./three.grid.css">
+</head>
+<body>
+  <div class="container">
+    <div>
+      <span>Visualization</span>
+      
+      <select id="library">
+        <option value="d3">d3</option>
+        <option value="three">three</option>
+      </select>
+      <select id="visualization">
+        <option value="network">network</option>
+        <option value="stackedBar">stacked-bar</option>
+        <option value="tiles3">keywords-position-3</option>
+        <option value="tiles2">keywords-position-2</option>
+        <option value="tiles">keywords-position</option>
+        <option value="bubble">bubble</option>
+        <option value="bar">bar</option>
+        <option value="grid">grid screenshot</option>
+      </select>
+
+      <input type="text" id="query" placeholder="Search" value="hola mundo" />
+
+      <button id="visualizeBtn">
+        Visualize
+      </button>
+    </div>
+
+    <div id="canvas" />
+  </div>
+
+  <script src="/main.js"></script>
+  <script>
+    window.onload = function() {
+      document.querySelector('#visualizeBtn').click();
+    }
+  </script>
+</body>
+</html>
