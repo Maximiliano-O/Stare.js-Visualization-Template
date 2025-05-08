@@ -5,9 +5,8 @@ This Template is based on [stare.js-client made by d-salazar-se](https://github.
 
 To be more precise it takes the contents of the examples folder, 
 adds the lib folder, which contains visualization files and modifies the
-way main.js works, so instead of the way stare.js-client normally works, as
-in, making a request to stare.js-server, in this case it just loads the info
-of the search from response.json.
+way main.js works, instead of doing a search request towards stare.js-server,
+it loads the search result example from response.json.
 
 The idea is for this to be as self-contained as possible, so is easy to run
 locally, play around with a visualization during dev and then simplify the
