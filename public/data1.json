@@ -1,0 +1,521 @@
+{
+  "totalResults": "545.000",
+  "searchTerms": "hola mundo",
+  "numberOfItems": 12,
+  "startIndex": 1,
+  "documents": [
+    {
+      "link": "https://www.youtube.com/channel/UC8a88VgOO6ENHEsSyZxRTsg",
+      "title": "Hola Mundo - YouTube",
+      "snippet": "Hola, soy Jaime y me gusta viajar. ¿Quieres acompañarme? Suscríbete a este canal y comparte mi entusiasmo por conocer el mundo. Y, si no te gusta viajar, déj...",
+      "metrics": {
+        "ranking": 1,
+        "keywords-position": {
+          "documentLength": 212,
+          "keywords": {
+            "hola": [],
+            "mundo": []
+          }
+        },
+        "language": "spanish",
+        "length": 212,
+        "links": [
+          "youtube.com",
+          "google.com",
+          "google.com.mx"
+        ],
+        "multimedia": {
+          "video": "1",
+          "img": "7",
+          "audio": "0"
+        },
+        "perspicuity": 156,
+        "screenshot": ""
+      }
+    },
+    {
+      "link": "https://www.youtube.com/watch?v=4ieU-9Nftoo",
+      "title": "¡hola mundo! - YouTube",
+      "snippet": "Curso javaScript - Introducción, Hola Mundo y Variables - Duration: 9:53. codigofacilito Recommended for you. 9:53. Curso #microservicios con #SpringBoot ...",
+      "metrics": {
+        "ranking": 2,
+        "keywords-position": {
+          "documentLength": 212,
+          "keywords": {
+            "hola": [],
+            "mundo": []
+          }
+        },
+        "language": "spanish",
+        "length": 212,
+        "links": [
+          "youtube.com",
+          "google.com",
+          "google.com.mx"
+        ],
+        "multimedia": {
+          "video": "0",
+          "img": "3",
+          "audio": "1"
+        },
+        "perspicuity": 156,
+        "screenshot": ""
+      }
+    },
+    {
+      "link": "https://www.wordhippo.com/what-is/the-meaning-of/spanish-word-hola_mundo.html",
+      "title": "What does \"hola mundo\" mean in Spanish?",
+      "snippet": "Need to translate \"hola mundo\" from Spanish? Here's what it means.",
+      "metrics": {
+        "ranking": 3,
+        "keywords-position": {
+          "documentLength": 10027,
+          "keywords": {
+            "hola": [
+              1657,
+              3304,
+              9064,
+              9237,
+              9270,
+              9385,
+              9403,
+              9420,
+              9434,
+              9447,
+              9457,
+              9472,
+              9479,
+              9487,
+              9496,
+              9505,
+              9515,
+              9579
+            ],
+            "mundo": [
+              1662,
+              3309,
+              9069,
+              9209,
+              9294,
+              9584
+            ]
+          }
+        },
+        "language": "english",
+        "length": 10027,
+        "links": [
+          "wordhippo.com",
+          "google.com"
+        ],
+        "multimedia": {
+          "video": "2",
+          "img": "9",
+          "audio": "1"
+        },
+        "perspicuity": 0,
+        "screenshot": ""
+      }
+    },
+    {
+      "link": "https://edinumenusa.com/holamundo/review/",
+      "title": "Review - Hola mundo",
+      "snippet": "¡Hola, mundo!, ¡Hola, amigos! 5. Student Edition 5. View. Teacher’s Edition 5. View. Online Resources 6. View. Your Spanish Language Specialists. There’s a new voice in Spanish language textbook publishing! Edinumen is an exciting new alternative for Spanish language learning materials for grades K–5!",
+      "metrics": {
+        "ranking": 4,
+        "keywords-position": {
+          "documentLength": 1487,
+          "keywords": {
+            "hola": [
+              226,
+              352,
+              520,
+              597,
+              612,
+              694,
+              709,
+              791,
+              806,
+              888,
+              903,
+              985,
+              1000
+            ],
+            "mundo": [
+              526,
+              603,
+              700,
+              797,
+              894,
+              991
+            ]
+          }
+        },
+        "language": "english",
+        "length": 1487,
+        "links": [
+          "edinumenusa.com",
+          "edinumen.es",
+          "twitter.com",
+          "facebook.com",
+          "linkedin.com",
+          "instagram.com"
+        ],
+        "multimedia": {
+          "video": "0",
+          "img": "11",
+          "audio": "1"
+        },
+        "perspicuity": 77,
+        "screenshot": ""
+      }
+    },
+    {
+      "link": "https://github.com/jaylandro/hola-mundo-javascript-action",
+      "title": "GitHub - jaylandro/hola-mundo-javascript-action: ⚡️",
+      "snippet": "⚡️ 🔩. Contribute to jaylandro/hola-mundo-javascript-action development by creating an account on GitHub.",
+      "metrics": {
+        "ranking": 5,
+        "keywords-position": {
+          "documentLength": 8240,
+          "keywords": {
+            "hola": [],
+            "mundo": []
+          }
+        },
+        "language": "english",
+        "length": 8240,
+        "links": [
+          "github.com",
+          "opensource.guide",
+          "github.community",
+          "githubassets.com",
+          "apple.com",
+          "githubstatus.com",
+          "github.blog"
+        ],
+        "multimedia": {
+          "video": "0",
+          "img": "3",
+          "audio": "0"
+        },
+        "perspicuity": 59,
+        "screenshot": ""
+      }
+    },
+    {
+      "link": "https://registry.hub.docker.com/_/hola-mundo",
+      "title": "hola-mundo - Docker Hub",
+      "snippet": "¡Hola de DockerCon EU 2015 (Barcelona)!",
+      "metrics": {
+        "ranking": 6,
+        "keywords-position": {
+          "documentLength": 0,
+          "keywords": {
+            "hola": [],
+            "mundo": []
+          }
+        },
+        "language": "italian",
+        "length": 0,
+        "links": [
+          "docker.com"
+        ],
+        "multimedia": {
+          "video": "7",
+          "img": "2",
+          "audio": "0"
+        },
+        "perspicuity": {
+          "code": -1,
+          "message": "Language not supported"
+        },
+        "screenshot": ""
+      }
+    },
+    {
+      "link": "https://www.facebook.com/holamundopy/posts/4287072797977341",
+      "title": "Hola Mundo | Facebook",
+      "snippet": "Hola Mundo. 21 hrs · 118,009 Views. ChuChu TV. March 24 · ToyTocToc presents making Mixing All My Slime Smoothie and learn colors with nursery rhymes songs for kids # slime # nurseryrhymes # learncolors # forkids # forchildren # kidssongs. Used Nursery Rhyme Song : Bingo Song. Enjoy our Family Channels' Videos!",
+      "metrics": {
+        "ranking": 7,
+        "keywords-position": {
+          "documentLength": 315,
+          "keywords": {
+            "hola": [],
+            "mundo": []
+          }
+        },
+        "language": "english",
+        "length": 315,
+        "links": [
+          "facebook.com"
+        ],
+        "multimedia": {
+          "video": "1",
+          "img": "5",
+          "audio": "0"
+        },
+        "perspicuity": 170,
+        "screenshot": ""
+      }
+    },
+    {
+      "link": "http://www.allspotless.com/",
+      "title": "index [www.allspotless.com]",
+      "snippet": "Mauricio Lenis - Bilingual Realtor (405) 822-2740 Mauricio Lenis - Bilingual Realtor (405) 822-2740",
+      "metrics": {
+        "ranking": 8,
+        "keywords-position": {
+          "documentLength": 2635,
+          "keywords": {
+            "hola": [],
+            "mundo": []
+          }
+        },
+        "language": "latin",
+        "length": 2635,
+        "links": [
+          "allspotless.com"
+        ],
+        "multimedia": {
+          "video": "0",
+          "img": "1",
+          "audio": "0"
+        },
+        "perspicuity": {
+          "code": -1,
+          "message": "Language not supported"
+        },
+        "screenshot": ""
+      }
+    },
+    {
+      "link": "https://www.youtube.com/watch?v=B5bNkTdfYME",
+      "title": "Hola mundo 🌍 es título noipota que hables mal de ti - YouTube",
+      "snippet": "#@nobalora #tunovia#es pero que le guste mucho video @para ti.",
+      "metrics": {
+        "ranking": 9,
+        "keywords-position": {
+          "documentLength": 212,
+          "keywords": {
+            "hola": [],
+            "mundo": []
+          }
+        },
+        "language": "spanish",
+        "length": 212,
+        "links": [
+          "youtube.com",
+          "google.com",
+          "google.com.mx"
+        ],
+        "multimedia": {
+          "video": "0",
+          "img": "8",
+          "audio": "2"
+        },
+        "perspicuity": 156,
+        "screenshot": ""
+      }
+    },
+    {
+      "link": "https://es.wikipedia.org/wiki/Hola_mundo",
+      "title": "Hola mundo - Wikipedia, la enciclopedia libre",
+      "snippet": "No confundir con la película anime de 2019, Hello Word. En informática, un programa Hola mundo es el que imprime el texto «¡Hola, mundo!» en un dispositivo de visualización, en la mayoría de los casos la pantalla de un monitor. Este programa suele ser usado como introducción al estudio de un lenguaje de programación, siendo un primer ejercicio típico, y se considera fundamental desde ...",
+      "metrics": {
+        "ranking": 10,
+        "keywords-position": {
+          "documentLength": 3701,
+          "keywords": {
+            "hola": [
+              0,
+              122,
+              250,
+              290,
+              1001,
+              1292,
+              1363,
+              1612,
+              2000
+            ],
+            "mundo": [
+              5,
+              127,
+              255,
+              296,
+              1006,
+              1297,
+              1368,
+              1617,
+              2005
+            ]
+          }
+        },
+        "language": "spanish",
+        "length": 3701,
+        "links": [
+          "wikipedia.org",
+          "archive.org",
+          "helloworldcollection.de",
+          "iearobotics.com",
+          "wikidata.org",
+          "wikimedia.org",
+          "creativecommons.org",
+          "mediawiki.org",
+          "wikimediafoundation.org"
+        ],
+        "multimedia": {
+          "video": "2",
+          "img": "8",
+          "audio": "1"
+        },
+        "perspicuity": 0,
+        "screenshot": ""
+      }
+    },
+    {
+      "link": "https://pypi.org/project/hola_mundo/",
+      "title": "hola_mundo · PyPI",
+      "snippet": "*Hola Mundo* makes it easy for you to internationalize your greetings. The execution of *Hola Mundo* can be accomplished with: > python -m hola_mundo.main <index> or > python hola_mundo/main.py <index> :index: An optional integer that will display `Hola Mundo` in a given language. If not provided, then a random version of `Hola Mundo` will be ...",
+      "metrics": {
+        "ranking": 11,
+        "keywords-position": {
+          "documentLength": 12853,
+          "keywords": {
+            "hola": [
+              1178,
+              1232,
+              1439,
+              2941,
+              3344,
+              3521,
+              3590,
+              3642,
+              3675,
+              3709,
+              3796,
+              3849,
+              3895,
+              3976,
+              4059,
+              4187,
+              4295,
+              4349,
+              4510,
+              4576,
+              5347,
+              8389,
+              8758,
+              9448,
+              9502
+            ],
+            "mundo": [
+              1183,
+              1237,
+              1444,
+              2946,
+              3349,
+              3526,
+              3595,
+              3647,
+              3714,
+              3801,
+              3854,
+              3900,
+              3981,
+              4064,
+              4192,
+              4300,
+              4354,
+              4515,
+              4581,
+              5352,
+              8394,
+              8763,
+              9453,
+              9507
+            ]
+          }
+        },
+        "language": "english",
+        "length": 12853,
+        "links": [
+          "pypi.org",
+          "libraries.io",
+          "python.org",
+          "gmail.com",
+          "psfhosted.org",
+          "pythonhosted.org",
+          "pypa.io",
+          "twitter.com",
+          "dtdg.co",
+          "github.com",
+          "weblate.org",
+          "pingdom.com",
+          "google.com",
+          "getsentry.com",
+          "amazon.com",
+          "datadoghq.com",
+          "fastly.com",
+          "digicert.com",
+          "statuspage.io"
+        ],
+        "multimedia": {
+          "video": "0",
+          "img": "2",
+          "audio": "0"
+        },
+        "perspicuity": 0,
+        "screenshot": ""
+      }
+    },
+    {
+      "link": "https://tutorial.recursospython.com/hola-mundo/",
+      "title": "¡Hola, mundo! - Tutorial de Python",
+      "snippet": "¡Hola, mundo! La instalación de Python incluye un IDE (un programa en donde escribir el código) llamado IDLE, muy básico, pero que nos será útil en nuestros primeros pasos en el lenguaje.Si ya tienes tu editor de código favorito también puedes usarlo.",
+      "metrics": {
+        "ranking": 12,
+        "keywords-position": {
+          "documentLength": 6437,
+          "keywords": {
+            "hola": [
+              595,
+              1984,
+              2017,
+              2475,
+              3672,
+              3833,
+              3883,
+              4773,
+              4781,
+              4970
+            ],
+            "mundo": [
+              601,
+              1990,
+              2023,
+              2481,
+              4307,
+              4787
+            ]
+          }
+        },
+        "language": "spanish",
+        "length": 6437,
+        "links": [
+          "recursospython.com",
+          "wikipedia.org",
+          "creativecommons.org",
+          "mkdocs.org"
+        ],
+        "multimedia": {
+          "video": "1",
+          "img": "4",
+          "audio": "1"
+        },
+        "perspicuity": 0,
+        "screenshot": ""
+      }
+    }
+  ]
+}
