@@ -1,7 +1,7 @@
 "use strict";
 
 import stare from "../lib/index.js";
-import data1 from './data1.json';
+import data1 from './response/data1.json';
 
 (function () {
   const library = document.querySelector("#library");
