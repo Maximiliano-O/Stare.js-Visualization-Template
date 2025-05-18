@@ -1,5 +1,7 @@
 'use strict';
 
+// Renamed file for Network Visualization example
+
 import { select, event, drag as _drag, forceSimulation, forceLink, forceManyBody, forceX, forceY, scaleOrdinal, schemeCategory10 } from 'd3';
 import { isArray, assign, get } from 'lodash';
 

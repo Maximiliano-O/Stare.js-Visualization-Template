@@ -11,24 +11,16 @@
 <body>
   <div class="container">
     <div>
-      <span>Visualization</span>
-      
-      <select id="library">
-        <option value="d3">d3</option>
-        <option value="three">three</option>
-      </select>
-      <select id="visualization">
-        <option value="network">network</option>
-        <option value="stackedBar">stacked-bar</option>
-        <option value="tiles3">keywords-position-3</option>
-        <option value="tiles2">keywords-position-2</option>
-        <option value="tiles">keywords-position</option>
-        <option value="bubble">bubble</option>
-        <option value="bar">bar</option>
-        <option value="grid">grid screenshot</option>
-      </select>
+      <span>Visualization:</span>
 
-      <input type="text" id="query" placeholder="Search" value="hola mundo" />
+      <!-- Change the name of the visualization here -->
+      <span>D3 Network example</span> 
+
+      <select id="dataset">
+        <option value="data10">Documents: 10</option>
+        <option value="data50">Documents: 50</option>
+        <option value="data100">Documents: 100</option>
+      </select>
 
       <button id="visualizeBtn">
         Visualize
