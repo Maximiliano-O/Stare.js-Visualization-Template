@@ -1,520 +1,412 @@
 {
-  "totalResults": "545.000",
-  "searchTerms": "hola mundo",
-  "numberOfItems": 12,
+  "totalResults": "6,150,000,000",
+  "searchTerms": "JavaScript",
+  "numberOfItems": 10,
   "startIndex": 1,
   "documents": [
     {
-      "link": "https://www.youtube.com/channel/UC8a88VgOO6ENHEsSyZxRTsg",
-      "title": "Hola Mundo - YouTube",
-      "snippet": "Hola, soy Jaime y me gusta viajar. ¿Quieres acompañarme? Suscríbete a este canal y comparte mi entusiasmo por conocer el mundo. Y, si no te gusta viajar, déj...",
+      "title": "JavaScript | MDN",
+      "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+      "snippet": "Apr 2, 2025 ... JavaScript. JavaScript (JS) is a lightweight interpreted (or just-in-time compiled) programming language with first-class functions. While it is ...",
+      "image": "https://developer.mozilla.org/mdn-social-share.d893525a4fb5fb1f67a2.png",
       "metrics": {
-        "ranking": 1,
         "keywords-position": {
-          "documentLength": 212,
+          "documentLength": 19015,
           "keywords": {
-            "hola": [],
-            "mundo": []
-          }
-        },
-        "language": "spanish",
-        "length": 212,
-        "links": [
-          "youtube.com",
-          "google.com",
-          "google.com.mx"
-        ],
-        "multimedia": {
-          "video": "1",
-          "img": "7",
-          "audio": "0"
-        },
-        "perspicuity": 156,
-        "screenshot": ""
-      }
-    },
-    {
-      "link": "https://www.youtube.com/watch?v=4ieU-9Nftoo",
-      "title": "¡hola mundo! - YouTube",
-      "snippet": "Curso javaScript - Introducción, Hola Mundo y Variables - Duration: 9:53. codigofacilito Recommended for you. 9:53. Curso #microservicios con #SpringBoot ...",
-      "metrics": {
-        "ranking": 2,
-        "keywords-position": {
-          "documentLength": 212,
-          "keywords": {
-            "hola": [],
-            "mundo": []
-          }
-        },
-        "language": "spanish",
-        "length": 212,
-        "links": [
-          "youtube.com",
-          "google.com",
-          "google.com.mx"
-        ],
-        "multimedia": {
-          "video": "0",
-          "img": "3",
-          "audio": "1"
-        },
-        "perspicuity": 156,
-        "screenshot": ""
-      }
-    },
-    {
-      "link": "https://www.wordhippo.com/what-is/the-meaning-of/spanish-word-hola_mundo.html",
-      "title": "What does \"hola mundo\" mean in Spanish?",
-      "snippet": "Need to translate \"hola mundo\" from Spanish? Here's what it means.",
-      "metrics": {
-        "ranking": 3,
-        "keywords-position": {
-          "documentLength": 10027,
-          "keywords": {
-            "hola": [
-              1657,
-              3304,
-              9064,
-              9237,
-              9270,
-              9385,
-              9403,
-              9420,
-              9434,
-              9447,
-              9457,
-              9472,
-              9479,
-              9487,
-              9496,
-              9505,
-              9515,
-              9579
-            ],
-            "mundo": [
-              1662,
-              3309,
-              9069,
-              9209,
-              9294,
-              9584
-            ]
+            "JavaScript": [241, 703, 1237, 1430, 1456, 1569, 1579, 1614, 1890, 1957, 1996, 2027, 2074, 12539, 12717, 12743, 12753, 13037, 13216, 13453, 13573, 13784, 14309, 14357, 14412, 14594, 14710, 14731, 14779, 14835, 14912, 15057, 15172, 15219, 15253, 15297, 15333, 15771, 15816, 15867, 15950, 16004, 16053, 16247, 16305, 16596, 16674, 16755, 16823, 16869, 17499, 17540, 17808, 18015, 18089, 18150]
           }
         },
         "language": "english",
-        "length": 10027,
+        "length": 19016,
         "links": [
-          "wordhippo.com",
-          "google.com"
+          "mozilla.org",
+          "github.com",
+          "wikipedia.org",
+          "apache.org",
+          "adobe.com",
+          "tc39.es",
+          "bsky.app",
+          "mastodon.social",
+          "twitter.com"
         ],
         "multimedia": {
-          "video": "2",
-          "img": "9",
-          "audio": "1"
+          "video": 0,
+          "img": 0,
+          "audio": 0
         },
         "perspicuity": 0,
-        "screenshot": ""
+        "ranking": 1
       }
     },
     {
-      "link": "https://edinumenusa.com/holamundo/review/",
-      "title": "Review - Hola mundo",
-      "snippet": "¡Hola, mundo!, ¡Hola, amigos! 5. Student Edition 5. View. Teacher’s Edition 5. View. Online Resources 6. View. Your Spanish Language Specialists. There’s a new voice in Spanish language textbook publishing! Edinumen is an exciting new alternative for Spanish language learning materials for grades K–5!",
+      "title": "Learn JavaScript Online - Courses for Beginners - javascript.com",
+      "link": "https://www.javascript.com/",
+      "snippet": "Ready to try JavaScript? Begin learning here by typing in your first name surrounded by quotation marks, and ending with a semicolon.",
+      "image": "https://www.pluralsight.com/content/dam/aem-icons/javascript-com-icon.png",
       "metrics": {
-        "ranking": 4,
         "keywords-position": {
-          "documentLength": 1487,
+          "documentLength": 2363,
           "keywords": {
-            "hola": [
-              226,
-              352,
-              520,
-              597,
-              612,
-              694,
-              709,
-              791,
-              806,
-              888,
-              903,
-              985,
-              1000
-            ],
-            "mundo": [
-              526,
-              603,
-              700,
-              797,
-              894,
-              991
-            ]
+            "JavaScript": [48, 97, 403, 554, 652, 706, 797, 953, 996, 1042, 2349]
           }
         },
         "language": "english",
-        "length": 1487,
+        "length": 2364,
         "links": [
-          "edinumenusa.com",
-          "edinumen.es",
-          "twitter.com",
-          "facebook.com",
-          "linkedin.com",
-          "instagram.com"
+          "javascript.com",
+          "pluralsight.com",
+          "youtube.com"
         ],
         "multimedia": {
-          "video": "0",
-          "img": "11",
-          "audio": "1"
+          "video": 0,
+          "img": 4,
+          "audio": 0
         },
-        "perspicuity": 77,
-        "screenshot": ""
+        "perspicuity": 98,
+        "ranking": 2
       }
     },
     {
-      "link": "https://github.com/jaylandro/hola-mundo-javascript-action",
-      "title": "GitHub - jaylandro/hola-mundo-javascript-action: ⚡️",
-      "snippet": "⚡️ 🔩. Contribute to jaylandro/hola-mundo-javascript-action development by creating an account on GitHub.",
+      "title": "JavaScript - Wikipedia",
+      "link": "https://zh.wikipedia.org/wiki/w:JavaScript",
+      "snippet": "JavaScript is a high-level, often just-in-time–compiled language that conforms to the ECMAScript standard. ... It has dynamic typing, prototype-based object- ...",
       "metrics": {
-        "ranking": 5,
         "keywords-position": {
-          "documentLength": 8240,
+          "documentLength": 65020,
           "keywords": {
-            "hola": [],
-            "mundo": []
+            "JavaScript": [783, 1958, 3476, 3500, 4133, 4342, 4366, 4552, 4638, 4824, 5458, 5501, 6865, 6946, 7130, 7294, 8089, 10314, 10492, 10731, 11487, 11613, 12130, 12246, 12344, 12456, 12775, 12839, 12945, 13193, 14078, 14509, 14562, 14616, 14805, 15198, 15341, 15391, 15697, 15742, 15802, 15906, 15964, 16012, 16157, 16275, 16411, 16594, 16770, 16812, 17141, 17498, 17871, 18220, 18411, 18542, 18786, 19823, 20198, 21054, 21271, 21399, 21560, 21693, 21975, 22492, 24621, 25043, 25368, 26054, 26166, 26338, 26843, 27120, 27270, 27929, 28039, 28326, 28409, 28916, 29286, 29317, 29593, 29804, 31010, 31236, 31300, 31815, 31939, 32184, 32388, 34116, 34295, 34657, 34866, 35013, 35324, 35515, 35797, 37059, 37342, 37772, 38145, 38352, 38583, 38731, 38817, 38930, 39082, 39328, 39498, 39582, 39846, 39920, 40102, 40234, 40246, 40315, 40494, 40665, 40742, 40832, 40939, 41050, 41077, 41209, 41419, 41521, 41616, 41703, 41742, 41848, 42603, 42787, 43040, 43176, 43816, 43910, 44169, 45336, 45746, 46327, 47309, 47409, 47450, 47513, 47798, 48339, 48461, 48837, 49460, 49619, 50135, 50335, 50685, 50904, 51160, 51242, 51376, 51586, 51701, 51780, 52006, 52193, 52421, 52441, 52453, 52692, 53023, 53754, 54061, 54862, 55953, 56186, 56500, 56871, 57239, 57817, 57954, 58143, 58218, 58600, 58723, 58786, 59049, 59068, 59457, 59487, 60073, 60346, 60468, 61077, 61126, 61160, 61289, 63077, 63363, 63404, 64463, 64986]
           }
         },
         "language": "english",
-        "length": 8240,
-        "links": [
-          "github.com",
-          "opensource.guide",
-          "github.community",
-          "githubassets.com",
-          "apple.com",
-          "githubstatus.com",
-          "github.blog"
-        ],
-        "multimedia": {
-          "video": "0",
-          "img": "3",
-          "audio": "0"
-        },
-        "perspicuity": 59,
-        "screenshot": ""
-      }
-    },
-    {
-      "link": "https://registry.hub.docker.com/_/hola-mundo",
-      "title": "hola-mundo - Docker Hub",
-      "snippet": "¡Hola de DockerCon EU 2015 (Barcelona)!",
-      "metrics": {
-        "ranking": 6,
-        "keywords-position": {
-          "documentLength": 0,
-          "keywords": {
-            "hola": [],
-            "mundo": []
-          }
-        },
-        "language": "italian",
-        "length": 0,
-        "links": [
-          "docker.com"
-        ],
-        "multimedia": {
-          "video": "7",
-          "img": "2",
-          "audio": "0"
-        },
-        "perspicuity": {
-          "code": -1,
-          "message": "Language not supported"
-        },
-        "screenshot": ""
-      }
-    },
-    {
-      "link": "https://www.facebook.com/holamundopy/posts/4287072797977341",
-      "title": "Hola Mundo | Facebook",
-      "snippet": "Hola Mundo. 21 hrs · 118,009 Views. ChuChu TV. March 24 · ToyTocToc presents making Mixing All My Slime Smoothie and learn colors with nursery rhymes songs for kids # slime # nurseryrhymes # learncolors # forkids # forchildren # kidssongs. Used Nursery Rhyme Song : Bingo Song. Enjoy our Family Channels' Videos!",
-      "metrics": {
-        "ranking": 7,
-        "keywords-position": {
-          "documentLength": 315,
-          "keywords": {
-            "hola": [],
-            "mundo": []
-          }
-        },
-        "language": "english",
-        "length": 315,
-        "links": [
-          "facebook.com"
-        ],
-        "multimedia": {
-          "video": "1",
-          "img": "5",
-          "audio": "0"
-        },
-        "perspicuity": 170,
-        "screenshot": ""
-      }
-    },
-    {
-      "link": "http://www.allspotless.com/",
-      "title": "index [www.allspotless.com]",
-      "snippet": "Mauricio Lenis - Bilingual Realtor (405) 822-2740 Mauricio Lenis - Bilingual Realtor (405) 822-2740",
-      "metrics": {
-        "ranking": 8,
-        "keywords-position": {
-          "documentLength": 2635,
-          "keywords": {
-            "hola": [],
-            "mundo": []
-          }
-        },
-        "language": "latin",
-        "length": 2635,
-        "links": [
-          "allspotless.com"
-        ],
-        "multimedia": {
-          "video": "0",
-          "img": "1",
-          "audio": "0"
-        },
-        "perspicuity": {
-          "code": -1,
-          "message": "Language not supported"
-        },
-        "screenshot": ""
-      }
-    },
-    {
-      "link": "https://www.youtube.com/watch?v=B5bNkTdfYME",
-      "title": "Hola mundo 🌍 es título noipota que hables mal de ti - YouTube",
-      "snippet": "#@nobalora #tunovia#es pero que le guste mucho video @para ti.",
-      "metrics": {
-        "ranking": 9,
-        "keywords-position": {
-          "documentLength": 212,
-          "keywords": {
-            "hola": [],
-            "mundo": []
-          }
-        },
-        "language": "spanish",
-        "length": 212,
-        "links": [
-          "youtube.com",
-          "google.com",
-          "google.com.mx"
-        ],
-        "multimedia": {
-          "video": "0",
-          "img": "8",
-          "audio": "2"
-        },
-        "perspicuity": 156,
-        "screenshot": ""
-      }
-    },
-    {
-      "link": "https://es.wikipedia.org/wiki/Hola_mundo",
-      "title": "Hola mundo - Wikipedia, la enciclopedia libre",
-      "snippet": "No confundir con la película anime de 2019, Hello Word. En informática, un programa Hola mundo es el que imprime el texto «¡Hola, mundo!» en un dispositivo de visualización, en la mayoría de los casos la pantalla de un monitor. Este programa suele ser usado como introducción al estudio de un lenguaje de programación, siendo un primer ejercicio típico, y se considera fundamental desde ...",
-      "metrics": {
-        "ranking": 10,
-        "keywords-position": {
-          "documentLength": 3701,
-          "keywords": {
-            "hola": [
-              0,
-              122,
-              250,
-              290,
-              1001,
-              1292,
-              1363,
-              1612,
-              2000
-            ],
-            "mundo": [
-              5,
-              127,
-              255,
-              296,
-              1006,
-              1297,
-              1368,
-              1617,
-              2005
-            ]
-          }
-        },
-        "language": "spanish",
-        "length": 3701,
+        "length": 65021,
         "links": [
           "wikipedia.org",
-          "archive.org",
-          "helloworldcollection.de",
-          "iearobotics.com",
-          "wikidata.org",
           "wikimedia.org",
-          "creativecommons.org",
+          "wikidata.org",
           "mediawiki.org",
+          "wikibooks.org",
+          "wikifunctions.org",
+          "wikiversity.org",
+          "ecma-international.org",
+          "mozilla.org",
+          "archive.org",
+          "netscape.com",
+          "tc39.es",
+          "github.com",
+          "google.com",
+          "exploringjs.com",
+          "brendaneich.com",
+          "youtube.com",
+          "loc.gov",
+          "worldcat.org",
+          "openlibrary.org",
+          "w3techs.com",
+          "mwdwebsites.com",
+          "wired.com",
+          "speakingjs.com",
+          "oreilly.com",
+          "microsoft.com",
+          "technologizer.com",
+          "searchenginejournal.com",
+          "bbc.co.uk",
+          "pcgameshardware.com",
+          "lifehacker.com",
+          "theserverside.com",
+          "linux.com",
+          "thenewstack.io",
+          "uspto.gov",
+          "oracle.com",
+          "indiatimes.com",
+          "theregister.com",
+          "infoworld.com",
+          "clouddevs.com",
+          "vanilla-js.com",
+          "readwrite.com",
+          "adobe.com",
+          "livejournal.com",
+          "graalvm.org",
+          "tessel.io",
+          "w3schools.com",
+          "espruino.com",
+          "telerik.com",
+          "v8.dev",
+          "medium.com",
+          "dev.to",
+          "destroyallsoftware.com",
+          "crockford.com",
+          "eloquentjavascript.net",
+          "yehudakatz.com",
+          "peterseliger.blogspot.de",
+          "vub.ac.be",
+          "cocktailjs.github.io",
+          "wordpress.com",
+          "adsafe.org",
+          "mozillazine.org",
+          "anta.net",
+          "serviceobjects.com",
+          "arxiv.org",
+          "doi.org",
+          "semanticscholar.org",
+          "neu.edu",
+          "qz.com",
+          "scmagazineuk.com",
+          "com.com",
+          "securitytracker.com",
+          "securityfocus.com",
+          "fusionauthority.com",
+          "msdn.com",
+          "cert.org",
+          "symantec.com",
+          "vice.com",
+          "arstechnica.com",
+          "slate.com",
+          "vusec.net",
+          "spectreattack.com",
+          "benchmarkjs.com",
+          "jsben.ch",
+          "visualstudiomagazine.com",
+          "asmjs.org",
+          "wiktionary.org",
+          "javascript.info",
+          "pldi21.org",
+          "d-nb.info",
+          "bnf.fr",
+          "nkp.cz",
+          "bne.es",
+          "nli.org.il",
+          "idref.fr",
+          "elmcip.net",
           "wikimediafoundation.org"
         ],
         "multimedia": {
-          "video": "2",
-          "img": "8",
-          "audio": "1"
+          "video": 0,
+          "img": 25,
+          "audio": 1
         },
         "perspicuity": 0,
-        "screenshot": ""
+        "ranking": 3
       }
     },
     {
-      "link": "https://pypi.org/project/hola_mundo/",
-      "title": "hola_mundo · PyPI",
-      "snippet": "*Hola Mundo* makes it easy for you to internationalize your greetings. The execution of *Hola Mundo* can be accomplished with: > python -m hola_mundo.main <index> or > python hola_mundo/main.py <index> :index: An optional integer that will display `Hola Mundo` in a given language. If not provided, then a random version of `Hola Mundo` will be ...",
+      "title": "JavaScript Tutorial",
+      "link": "https://www.w3schools.com/js/DEFAULT.asp",
+      "snippet": "JavaScript References. W3Schools maintains a complete JavaScript reference, including all HTML and browser objects. The reference contains examples for all ...",
+      "image": "https://www.w3schools.com/signup/lynxlogo.svg",
       "metrics": {
-        "ranking": 11,
         "keywords-position": {
-          "documentLength": 12853,
+          "documentLength": 15152,
           "keywords": {
-            "hola": [
-              1178,
-              1232,
-              1439,
-              2941,
-              3344,
-              3521,
-              3590,
-              3642,
-              3675,
-              3709,
-              3796,
-              3849,
-              3895,
-              3976,
-              4059,
-              4187,
-              4295,
-              4349,
-              4510,
-              4576,
-              5347,
-              8389,
-              8758,
-              9448,
-              9502
-            ],
-            "mundo": [
-              1183,
-              1237,
-              1444,
-              2946,
-              3349,
-              3526,
-              3595,
-              3647,
-              3714,
-              3801,
-              3854,
-              3900,
-              3981,
-              4064,
-              4192,
-              4300,
-              4354,
-              4515,
-              4581,
-              5352,
-              8394,
-              8763,
-              9453,
-              9507
-            ]
+            "JavaScript": [1322, 1339, 3393, 3404, 4470, 4481, 6770, 7424, 10327, 10363, 10403, 10414, 10475, 10526, 10584, 10634, 10778, 11336, 11370, 11402, 11414, 11570, 11656, 11681, 12191, 12224, 12239, 12290, 12302, 12407, 12447, 12573, 12594, 12625, 12663, 13066, 13119, 13329, 13900, 14100, 14305, 14508]
           }
         },
         "language": "english",
-        "length": 12853,
+        "length": 15153,
         "links": [
-          "pypi.org",
-          "libraries.io",
-          "python.org",
-          "gmail.com",
-          "psfhosted.org",
-          "pythonhosted.org",
-          "pypa.io",
-          "twitter.com",
-          "dtdg.co",
-          "github.com",
-          "weblate.org",
-          "pingdom.com",
-          "google.com",
-          "getsentry.com",
-          "amazon.com",
-          "datadoghq.com",
-          "fastly.com",
-          "digicert.com",
-          "statuspage.io"
+          "w3schools.com",
+          "youtube.com",
+          "linkedin.com",
+          "discord.com",
+          "facebook.com",
+          "instagram.com"
         ],
         "multimedia": {
-          "video": "0",
-          "img": "2",
-          "audio": "0"
+          "video": 0,
+          "img": 8,
+          "audio": 0
         },
         "perspicuity": 0,
-        "screenshot": ""
+        "ranking": 4
       }
     },
     {
-      "link": "https://tutorial.recursospython.com/hola-mundo/",
-      "title": "¡Hola, mundo! - Tutorial de Python",
-      "snippet": "¡Hola, mundo! La instalación de Python incluye un IDE (un programa en donde escribir el código) llamado IDLE, muy básico, pero que nos será útil en nuestros primeros pasos en el lenguaje.Si ya tienes tu editor de código favorito también puedes usarlo.",
+      "title": "Node.js — Run JavaScript Everywhere",
+      "link": "https://nodejs.org/en",
+      "snippet": "Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.",
+      "image": "https://nodejs.org/en/next-data/og/announcement/Node.js%20%E2%80%94%20Run%20JavaScript%20Everywhere",
       "metrics": {
-        "ranking": 12,
         "keywords-position": {
-          "documentLength": 6437,
+          "documentLength": 1158,
           "keywords": {
-            "hola": [
-              595,
-              1984,
-              2017,
-              2475,
-              3672,
-              3833,
-              3883,
-              4773,
-              4781,
-              4970
-            ],
-            "mundo": [
-              601,
-              1990,
-              2023,
-              2481,
-              4307,
-              4787
-            ]
+            "JavaScript": [146, 215, 968]
           }
         },
-        "language": "spanish",
-        "length": 6437,
+        "language": "english",
+        "length": 1159,
         "links": [
-          "recursospython.com",
-          "wikipedia.org",
-          "creativecommons.org",
-          "mkdocs.org"
+          "nodejs.org",
+          "github.com",
+          "linuxfoundation.org",
+          "research.net",
+          "openjsf.org",
+          "lfx.dev",
+          "bsky.app",
+          "twitter.com",
+          "linkedin.com"
         ],
         "multimedia": {
-          "video": "1",
-          "img": "4",
-          "audio": "1"
+          "video": 0,
+          "img": 0,
+          "audio": 0
+        },
+        "perspicuity": 151,
+        "ranking": 5
+      }
+    },
+    {
+      "title": "The Modern JavaScript Tutorial",
+      "link": "https://javascript.info/",
+      "snippet": "Here we learn JavaScript, starting from scratch and go on to advanced concepts like OOP. We concentrate on the language itself here, with the minimum of ...",
+      "image": "https://javascript.info/img/site_preview_en_1200x630.png",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 6433,
+          "keywords": {
+            "JavaScript": [411, 657, 786, 877, 910, 1111, 1176, 1535, 4994, 5648, 5805]
+          }
+        },
+        "language": "english",
+        "length": 6434,
+        "links": [
+          "javascript.info",
+          "javascript.ru",
+          "twitter.com",
+          "facebook.com",
+          "github.com",
+          "discord.gg",
+          "plnkr.co",
+          "jsbin.com",
+          "codepen.io"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 4,
+          "audio": 0
         },
         "perspicuity": 0,
-        "screenshot": ""
+        "ranking": 6
+      }
+    },
+    {
+      "title": "𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝",
+      "link": "https://www.reddit.com/r/javascript/",
+      "snippet": "r/javascript · Showoff Saturday (May 17, 2025) · Your /r/javascript recap for the week of May 12 - May 18, 2025 · Your /r/javascript recap for the week of May ...",
+      "image": "https://www.redditstatic.com/shreddit/assets/favicon/192x192.png",
+      "metrics": {
+        "keywords-position": -1,
+        "language": "english",
+        "length": -1,
+        "links": -1,
+        "multimedia": -1,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
+        "ranking": 7
+      }
+    },
+    {
+      "title": "JavaScript Courses & Tutorials | Codecademy",
+      "link": "https://www.codecademy.com/catalog/language/javascript",
+      "snippet": "Learn how to use JavaScript — a powerful and flexible programming language for adding website interactivity ...",
+      "image": "https://images.codecademy.com/social/logo-codecademy-social.png",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 22516,
+          "keywords": {
+            "JavaScript": [180, 292, 302, 316, 516, 592, 684, 740, 773, 801, 828, 855, 1001, 1053, 1080, 1226, 1261, 1994, 2831, 3128, 3564, 3699, 4036, 4063, 4312, 4425, 4542, 4562, 4827, 4943, 5051, 5125, 5182, 5561, 5635, 5710, 5814, 5986, 6022, 6467, 8148, 8305, 8469, 8638, 9583, 10039, 10416, 10462, 10870, 11007, 11762, 12072, 12824, 12912, 13038, 13190, 13283, 13376, 13463, 13585, 13986, 14077, 14477, 17074, 17305, 19128, 19330, 20417, 20641, 20792, 21017, 21090, 21225, 21281, 22231]
+          }
+        },
+        "language": "english",
+        "length": 22517,
+        "links": [
+          "codecademy.com",
+          "youtube.com",
+          "mozilla.org",
+          "ctfassets.net",
+          "twitter.com",
+          "instagram.com",
+          "tiktok.com",
+          "trello.com",
+          "apple.com",
+          "google.com"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 111,
+          "audio": 0
+        },
+        "perspicuity": 0,
+        "ranking": 8
+      }
+    },
+    {
+      "title": "How to enable JavaScript in Windows - Microsoft Support",
+      "link": "https://support.microsoft.com/en-us/topic/how-to-enable-javascript-in-windows-88d27b37-6484-7fc0-17df-872f65168279",
+      "snippet": "On the web browser menu, click Tools or the \"Tools\" icon (which looks like a gear), and select Internet Options.",
+      "image": "https://support.microsoft.com/images/en-us/9b74379b-dcae-4fb1-9f07-819553260d1d",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 6280,
+          "keywords": {
+            "JavaScript": [1563, 1697, 1828, 2004, 3691, 3781, 3873, 3950]
+          }
+        },
+        "language": "english",
+        "length": 6281,
+        "links": [
+          "microsoft.com",
+          "xbox.com",
+          "office.com",
+          "skype.com",
+          "google.com",
+          "mozilla.org",
+          "facebook.com",
+          "linkedin.com",
+          "windows.com",
+          "aka.ms"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 20,
+          "audio": 0
+        },
+        "perspicuity": 0,
+        "ranking": 9
+      }
+    },
+    {
+      "title": "Javascript Fatigue. A few days ago, I met up with a friend… | by Eric ...",
+      "link": "https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4",
+      "snippet": "Dec 26, 2015 ... The problem is that by choosing React (and inherently JSX), you've unwittingly opted into a confusing nest of build tools, boilerplate, linters, & time-sinks.",
+      "image": "https://miro.medium.com/v2/resize:fit:900/1*H4Y_NLqni0G4L5oL-hPmqw.png",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 5416,
+          "keywords": {
+            "JavaScript": [55, 250, 301, 4585, 5111, 5215]
+          }
+        },
+        "language": "english",
+        "length": 5417,
+        "links": [
+          "medium.com",
+          "app.link",
+          "yeoman.io",
+          "github.com",
+          "webpack.github.io",
+          "npmjs.com",
+          "mochajs.org",
+          "vjeux.com",
+          "statuspage.io",
+          "speechify.com"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 6,
+          "audio": 0
+        },
+        "perspicuity": 0,
+        "ranking": 10
       }
     }
   ]

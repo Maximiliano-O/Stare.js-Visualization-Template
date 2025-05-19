@@ -1,520 +1,1913 @@
 {
-  "totalResults": "545.000",
-  "searchTerms": "hola mundo",
-  "numberOfItems": 12,
+  "totalResults": "6,140,000,000",
+  "searchTerms": "javascript",
+  "numberOfItems": 50,
   "startIndex": 1,
   "documents": [
     {
-      "link": "https://www.youtube.com/channel/UC8a88VgOO6ENHEsSyZxRTsg",
-      "title": "Hola Mundo - alsdfhklasdhflaksdhflaksdhflkasdhflksdhaflksadhfljkh",
-      "snippet": "Hola, soy Jaime y me gusta viajar. ¿Quieres acompañarme? Suscríbete a este canal y comparte mi entusiasmo por conocer el mundo. Y, si no te gusta viajar, déj...",
+      "title": "JavaScript | MDN",
+      "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+      "snippet": "Apr 2, 2025 ... JavaScript. JavaScript (JS) is a lightweight interpreted (or just-in-time compiled) programming language with first-class functions. While it is ...",
+      "image": "https://developer.mozilla.org/mdn-social-share.d893525a4fb5fb1f67a2.png",
       "metrics": {
-        "ranking": 1,
         "keywords-position": {
-          "documentLength": 212,
+          "documentLength": 19015,
           "keywords": {
-            "hola": [],
-            "mundo": []
-          }
-        },
-        "language": "spanish",
-        "length": 212,
-        "links": [
-          "youtube.com",
-          "google.com",
-          "google.com.mx"
-        ],
-        "multimedia": {
-          "video": "1",
-          "img": "7",
-          "audio": "0"
-        },
-        "perspicuity": 156,
-        "screenshot": ""
-      }
-    },
-    {
-      "link": "https://www.youtube.com/watch?v=4ieU-9Nftoo",
-      "title": "¡hola mundo! - YouTube",
-      "snippet": "Curso javaScript - Introducción, Hola Mundo y Variables - Duration: 9:53. codigofacilito Recommended for you. 9:53. Curso #microservicios con #SpringBoot ...",
-      "metrics": {
-        "ranking": 2,
-        "keywords-position": {
-          "documentLength": 212,
-          "keywords": {
-            "hola": [],
-            "mundo": []
-          }
-        },
-        "language": "spanish",
-        "length": 212,
-        "links": [
-          "youtube.com",
-          "google.com",
-          "google.com.mx"
-        ],
-        "multimedia": {
-          "video": "0",
-          "img": "3",
-          "audio": "1"
-        },
-        "perspicuity": 156,
-        "screenshot": ""
-      }
-    },
-    {
-      "link": "https://www.wordhippo.com/what-is/the-meaning-of/spanish-word-hola_mundo.html",
-      "title": "What does \"hola mundo\" mean in Spanish?",
-      "snippet": "Need to translate \"hola mundo\" from Spanish? Here's what it means.",
-      "metrics": {
-        "ranking": 3,
-        "keywords-position": {
-          "documentLength": 10027,
-          "keywords": {
-            "hola": [
-              1657,
-              3304,
-              9064,
-              9237,
-              9270,
-              9385,
-              9403,
-              9420,
-              9434,
-              9447,
-              9457,
-              9472,
-              9479,
-              9487,
-              9496,
-              9505,
-              9515,
-              9579
-            ],
-            "mundo": [
-              1662,
-              3309,
-              9069,
-              9209,
-              9294,
-              9584
-            ]
+            "javascript": [241, 703, 1237, 1430, 1456, 1569, 1579, 1614, 1890, 1957, 1996, 2027, 2074, 12539, 12717, 12743, 12753, 13037, 13216, 13453, 13573, 13784, 14309, 14357, 14412, 14594, 14710, 14731, 14779, 14835, 14912, 15057, 15172, 15219, 15253, 15297, 15333, 15771, 15816, 15867, 15950, 16004, 16053, 16247, 16305, 16596, 16674, 16755, 16823, 16869, 17499, 17540, 17808, 18015, 18089, 18150]
           }
         },
         "language": "english",
-        "length": 10027,
+        "length": 19016,
         "links": [
-          "wordhippo.com",
-          "google.com"
+          "mozilla.org",
+          "github.com",
+          "wikipedia.org",
+          "apache.org",
+          "adobe.com",
+          "tc39.es",
+          "bsky.app",
+          "mastodon.social",
+          "twitter.com"
         ],
         "multimedia": {
-          "video": "2",
-          "img": "9",
-          "audio": "1"
+          "video": 0,
+          "img": 0,
+          "audio": 0
         },
         "perspicuity": 0,
-        "screenshot": ""
+        "ranking": 1
       }
     },
     {
-      "link": "https://edinumenusa.com/holamundo/review/",
-      "title": "Review - Hola mundo",
-      "snippet": "¡Hola, mundo!, ¡Hola, amigos! 5. Student Edition 5. View. Teacher’s Edition 5. View. Online Resources 6. View. Your Spanish Language Specialists. There’s a new voice in Spanish language textbook publishing! Edinumen is an exciting new alternative for Spanish language learning materials for grades K–5!",
+      "title": "Learn JavaScript Online - Courses for Beginners - javascript.com",
+      "link": "https://www.javascript.com/",
+      "snippet": "Ready to try JavaScript? Begin learning here by typing in your first name surrounded by quotation marks, and ending with a semicolon.",
+      "image": "https://www.pluralsight.com/content/dam/aem-icons/javascript-com-icon.png",
       "metrics": {
-        "ranking": 4,
         "keywords-position": {
-          "documentLength": 1487,
+          "documentLength": 2363,
           "keywords": {
-            "hola": [
-              226,
-              352,
-              520,
-              597,
-              612,
-              694,
-              709,
-              791,
-              806,
-              888,
-              903,
-              985,
-              1000
-            ],
-            "mundo": [
-              526,
-              603,
-              700,
-              797,
-              894,
-              991
-            ]
+            "javascript": [48, 97, 403, 554, 652, 706, 797, 953, 996, 1042, 2349]
           }
         },
         "language": "english",
-        "length": 1487,
+        "length": 2364,
         "links": [
-          "edinumenusa.com",
-          "edinumen.es",
-          "twitter.com",
-          "facebook.com",
-          "linkedin.com",
-          "instagram.com"
+          "javascript.com",
+          "pluralsight.com",
+          "youtube.com"
         ],
         "multimedia": {
-          "video": "0",
-          "img": "11",
-          "audio": "1"
+          "video": 0,
+          "img": 4,
+          "audio": 0
         },
-        "perspicuity": 77,
-        "screenshot": ""
+        "perspicuity": 98,
+        "ranking": 2
       }
     },
     {
-      "link": "https://github.com/jaylandro/hola-mundo-javascript-action",
-      "title": "GitHub - jaylandro/hola-mundo-javascript-action: ⚡️",
-      "snippet": "⚡️ 🔩. Contribute to jaylandro/hola-mundo-javascript-action development by creating an account on GitHub.",
+      "title": "JavaScript - Wikipedia",
+      "link": "https://zh.wikipedia.org/wiki/w:JavaScript",
+      "snippet": "JavaScript is a high-level, often just-in-time–compiled language that conforms to the ECMAScript standard. ... It has dynamic typing, prototype-based object- ...",
       "metrics": {
-        "ranking": 5,
         "keywords-position": {
-          "documentLength": 8240,
+          "documentLength": 65020,
           "keywords": {
-            "hola": [],
-            "mundo": []
+            "javascript": [783, 1958, 3476, 3500, 4133, 4342, 4366, 4552, 4638, 4824, 5458, 5501, 6865, 6946, 7130, 7294, 8089, 10314, 10492, 10731, 11487, 11613, 12130, 12246, 12344, 12456, 12775, 12839, 12945, 13193, 14078, 14509, 14562, 14616, 14805, 15198, 15341, 15391, 15697, 15742, 15802, 15906, 15964, 16012, 16157, 16275, 16411, 16594, 16770, 16812, 17141, 17498, 17871, 18220, 18411, 18542, 18786, 19823, 20198, 21054, 21271, 21399, 21560, 21693, 21975, 22492, 24621, 25043, 25368, 26054, 26166, 26338, 26843, 27120, 27270, 27929, 28039, 28326, 28409, 28916, 29286, 29317, 29593, 29804, 31010, 31236, 31300, 31815, 31939, 32184, 32388, 34116, 34295, 34657, 34866, 35013, 35324, 35515, 35797, 37059, 37342, 37772, 38145, 38352, 38583, 38731, 38817, 38930, 39082, 39328, 39498, 39582, 39846, 39920, 40102, 40234, 40246, 40315, 40494, 40665, 40742, 40832, 40939, 41050, 41077, 41209, 41419, 41521, 41616, 41703, 41742, 41848, 42603, 42787, 43040, 43176, 43816, 43910, 44169, 45336, 45746, 46327, 47309, 47409, 47450, 47513, 47798, 48339, 48461, 48837, 49460, 49619, 50135, 50335, 50685, 50904, 51160, 51242, 51376, 51586, 51701, 51780, 52006, 52193, 52421, 52441, 52453, 52692, 53023, 53754, 54061, 54862, 55953, 56186, 56500, 56871, 57239, 57817, 57954, 58143, 58218, 58600, 58723, 58786, 59049, 59068, 59457, 59487, 60073, 60346, 60468, 61077, 61126, 61160, 61289, 63077, 63363, 63404, 64463, 64986]
           }
         },
         "language": "english",
-        "length": 8240,
-        "links": [
-          "github.com",
-          "opensource.guide",
-          "github.community",
-          "githubassets.com",
-          "apple.com",
-          "githubstatus.com",
-          "github.blog"
-        ],
-        "multimedia": {
-          "video": "0",
-          "img": "3",
-          "audio": "0"
-        },
-        "perspicuity": 59,
-        "screenshot": ""
-      }
-    },
-    {
-      "link": "https://registry.hub.docker.com/_/hola-mundo",
-      "title": "hola-mundo - Docker Hub",
-      "snippet": "¡Hola de DockerCon EU 2015 (Barcelona)!",
-      "metrics": {
-        "ranking": 6,
-        "keywords-position": {
-          "documentLength": 0,
-          "keywords": {
-            "hola": [],
-            "mundo": []
-          }
-        },
-        "language": "italian",
-        "length": 0,
-        "links": [
-          "docker.com"
-        ],
-        "multimedia": {
-          "video": "7",
-          "img": "2",
-          "audio": "0"
-        },
-        "perspicuity": {
-          "code": -1,
-          "message": "Language not supported"
-        },
-        "screenshot": ""
-      }
-    },
-    {
-      "link": "https://www.facebook.com/holamundopy/posts/4287072797977341",
-      "title": "Hola Mundo | Facebook",
-      "snippet": "Hola Mundo. 21 hrs · 118,009 Views. ChuChu TV. March 24 · ToyTocToc presents making Mixing All My Slime Smoothie and learn colors with nursery rhymes songs for kids # slime # nurseryrhymes # learncolors # forkids # forchildren # kidssongs. Used Nursery Rhyme Song : Bingo Song. Enjoy our Family Channels' Videos!",
-      "metrics": {
-        "ranking": 7,
-        "keywords-position": {
-          "documentLength": 315,
-          "keywords": {
-            "hola": [],
-            "mundo": []
-          }
-        },
-        "language": "english",
-        "length": 315,
-        "links": [
-          "facebook.com"
-        ],
-        "multimedia": {
-          "video": "1",
-          "img": "5",
-          "audio": "0"
-        },
-        "perspicuity": 170,
-        "screenshot": ""
-      }
-    },
-    {
-      "link": "http://www.allspotless.com/",
-      "title": "index [www.allspotless.com]",
-      "snippet": "Mauricio Lenis - Bilingual Realtor (405) 822-2740 Mauricio Lenis - Bilingual Realtor (405) 822-2740",
-      "metrics": {
-        "ranking": 8,
-        "keywords-position": {
-          "documentLength": 2635,
-          "keywords": {
-            "hola": [],
-            "mundo": []
-          }
-        },
-        "language": "latin",
-        "length": 2635,
-        "links": [
-          "allspotless.com"
-        ],
-        "multimedia": {
-          "video": "0",
-          "img": "1",
-          "audio": "0"
-        },
-        "perspicuity": {
-          "code": -1,
-          "message": "Language not supported"
-        },
-        "screenshot": ""
-      }
-    },
-    {
-      "link": "https://www.youtube.com/watch?v=B5bNkTdfYME",
-      "title": "Hola mundo 🌍 es título noipota que hables mal de ti - YouTube",
-      "snippet": "#@nobalora #tunovia#es pero que le guste mucho video @para ti.",
-      "metrics": {
-        "ranking": 9,
-        "keywords-position": {
-          "documentLength": 212,
-          "keywords": {
-            "hola": [],
-            "mundo": []
-          }
-        },
-        "language": "spanish",
-        "length": 212,
-        "links": [
-          "youtube.com",
-          "google.com",
-          "google.com.mx"
-        ],
-        "multimedia": {
-          "video": "0",
-          "img": "8",
-          "audio": "2"
-        },
-        "perspicuity": 156,
-        "screenshot": ""
-      }
-    },
-    {
-      "link": "https://es.wikipedia.org/wiki/Hola_mundo",
-      "title": "Hola mundo - Wikipedia, la enciclopedia libre",
-      "snippet": "No confundir con la película anime de 2019, Hello Word. En informática, un programa Hola mundo es el que imprime el texto «¡Hola, mundo!» en un dispositivo de visualización, en la mayoría de los casos la pantalla de un monitor. Este programa suele ser usado como introducción al estudio de un lenguaje de programación, siendo un primer ejercicio típico, y se considera fundamental desde ...",
-      "metrics": {
-        "ranking": 10,
-        "keywords-position": {
-          "documentLength": 3701,
-          "keywords": {
-            "hola": [
-              0,
-              122,
-              250,
-              290,
-              1001,
-              1292,
-              1363,
-              1612,
-              2000
-            ],
-            "mundo": [
-              5,
-              127,
-              255,
-              296,
-              1006,
-              1297,
-              1368,
-              1617,
-              2005
-            ]
-          }
-        },
-        "language": "spanish",
-        "length": 3701,
+        "length": 65021,
         "links": [
           "wikipedia.org",
-          "archive.org",
-          "helloworldcollection.de",
-          "iearobotics.com",
-          "wikidata.org",
           "wikimedia.org",
-          "creativecommons.org",
+          "wikidata.org",
           "mediawiki.org",
+          "wikibooks.org",
+          "wikifunctions.org",
+          "wikiversity.org",
+          "ecma-international.org",
+          "mozilla.org",
+          "archive.org",
+          "netscape.com",
+          "tc39.es",
+          "github.com",
+          "google.com",
+          "exploringjs.com",
+          "brendaneich.com",
+          "youtube.com",
+          "loc.gov",
+          "worldcat.org",
+          "openlibrary.org",
+          "w3techs.com",
+          "mwdwebsites.com",
+          "wired.com",
+          "speakingjs.com",
+          "oreilly.com",
+          "microsoft.com",
+          "technologizer.com",
+          "searchenginejournal.com",
+          "bbc.co.uk",
+          "pcgameshardware.com",
+          "lifehacker.com",
+          "theserverside.com",
+          "linux.com",
+          "thenewstack.io",
+          "uspto.gov",
+          "oracle.com",
+          "indiatimes.com",
+          "theregister.com",
+          "infoworld.com",
+          "clouddevs.com",
+          "vanilla-js.com",
+          "readwrite.com",
+          "adobe.com",
+          "livejournal.com",
+          "graalvm.org",
+          "tessel.io",
+          "w3schools.com",
+          "espruino.com",
+          "telerik.com",
+          "v8.dev",
+          "medium.com",
+          "dev.to",
+          "destroyallsoftware.com",
+          "crockford.com",
+          "eloquentjavascript.net",
+          "yehudakatz.com",
+          "peterseliger.blogspot.de",
+          "vub.ac.be",
+          "cocktailjs.github.io",
+          "wordpress.com",
+          "adsafe.org",
+          "mozillazine.org",
+          "anta.net",
+          "serviceobjects.com",
+          "arxiv.org",
+          "doi.org",
+          "semanticscholar.org",
+          "neu.edu",
+          "qz.com",
+          "scmagazineuk.com",
+          "com.com",
+          "securitytracker.com",
+          "securityfocus.com",
+          "fusionauthority.com",
+          "msdn.com",
+          "cert.org",
+          "symantec.com",
+          "vice.com",
+          "arstechnica.com",
+          "slate.com",
+          "vusec.net",
+          "spectreattack.com",
+          "benchmarkjs.com",
+          "jsben.ch",
+          "visualstudiomagazine.com",
+          "asmjs.org",
+          "wiktionary.org",
+          "javascript.info",
+          "pldi21.org",
+          "d-nb.info",
+          "bnf.fr",
+          "nkp.cz",
+          "bne.es",
+          "nli.org.il",
+          "idref.fr",
+          "elmcip.net",
           "wikimediafoundation.org"
         ],
         "multimedia": {
-          "video": "2",
-          "img": "8",
-          "audio": "1"
+          "video": 0,
+          "img": 25,
+          "audio": 1
         },
         "perspicuity": 0,
-        "screenshot": ""
+        "ranking": 3
       }
     },
     {
-      "link": "https://pypi.org/project/hola_mundo/",
-      "title": "hola_mundo · PyPI",
-      "snippet": "*Hola Mundo* makes it easy for you to internationalize your greetings. The execution of *Hola Mundo* can be accomplished with: > python -m hola_mundo.main <index> or > python hola_mundo/main.py <index> :index: An optional integer that will display `Hola Mundo` in a given language. If not provided, then a random version of `Hola Mundo` will be ...",
+      "title": "JavaScript Tutorial",
+      "link": "https://www.w3schools.com/js/DEFAULT.asp",
+      "snippet": "JavaScript References. W3Schools maintains a complete JavaScript reference, including all HTML and browser objects. The reference contains examples for all ...",
+      "image": "https://www.w3schools.com/signup/lynxlogo.svg",
       "metrics": {
-        "ranking": 11,
         "keywords-position": {
-          "documentLength": 12853,
+          "documentLength": 15152,
           "keywords": {
-            "hola": [
-              1178,
-              1232,
-              1439,
-              2941,
-              3344,
-              3521,
-              3590,
-              3642,
-              3675,
-              3709,
-              3796,
-              3849,
-              3895,
-              3976,
-              4059,
-              4187,
-              4295,
-              4349,
-              4510,
-              4576,
-              5347,
-              8389,
-              8758,
-              9448,
-              9502
-            ],
-            "mundo": [
-              1183,
-              1237,
-              1444,
-              2946,
-              3349,
-              3526,
-              3595,
-              3647,
-              3714,
-              3801,
-              3854,
-              3900,
-              3981,
-              4064,
-              4192,
-              4300,
-              4354,
-              4515,
-              4581,
-              5352,
-              8394,
-              8763,
-              9453,
-              9507
-            ]
+            "javascript": [1322, 1339, 3393, 3404, 4470, 4481, 6770, 7424, 10327, 10363, 10403, 10414, 10475, 10526, 10584, 10634, 10778, 11336, 11370, 11402, 11414, 11570, 11656, 11681, 12191, 12224, 12239, 12290, 12302, 12407, 12447, 12573, 12594, 12625, 12663, 13066, 13119, 13329, 13900, 14100, 14305, 14508]
           }
         },
         "language": "english",
-        "length": 12853,
+        "length": 15153,
         "links": [
-          "pypi.org",
-          "libraries.io",
-          "python.org",
-          "gmail.com",
-          "psfhosted.org",
-          "pythonhosted.org",
-          "pypa.io",
-          "twitter.com",
-          "dtdg.co",
-          "github.com",
-          "weblate.org",
-          "pingdom.com",
-          "google.com",
-          "getsentry.com",
-          "amazon.com",
-          "datadoghq.com",
-          "fastly.com",
-          "digicert.com",
-          "statuspage.io"
+          "w3schools.com",
+          "youtube.com",
+          "linkedin.com",
+          "discord.com",
+          "facebook.com",
+          "instagram.com"
         ],
         "multimedia": {
-          "video": "0",
-          "img": "2",
-          "audio": "0"
+          "video": 0,
+          "img": 8,
+          "audio": 0
         },
         "perspicuity": 0,
-        "screenshot": ""
+        "ranking": 4
       }
     },
     {
-      "link": "https://tutorial.recursospython.com/hola-mundo/",
-      "title": "¡Hola, mundo! - Tutorial de Python",
-      "snippet": "¡Hola, mundo! La instalación de Python incluye un IDE (un programa en donde escribir el código) llamado IDLE, muy básico, pero que nos será útil en nuestros primeros pasos en el lenguaje.Si ya tienes tu editor de código favorito también puedes usarlo.",
+      "title": "Node.js — Run JavaScript Everywhere",
+      "link": "https://nodejs.org/en",
+      "snippet": "Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.",
+      "image": "https://nodejs.org/en/next-data/og/announcement/Node.js%20%E2%80%94%20Run%20JavaScript%20Everywhere",
       "metrics": {
-        "ranking": 12,
         "keywords-position": {
-          "documentLength": 6437,
+          "documentLength": 1158,
           "keywords": {
-            "hola": [
-              595,
-              1984,
-              2017,
-              2475,
-              3672,
-              3833,
-              3883,
-              4773,
-              4781,
-              4970
-            ],
-            "mundo": [
-              601,
-              1990,
-              2023,
-              2481,
-              4307,
-              4787
-            ]
+            "javascript": [146, 215, 968]
           }
         },
-        "language": "spanish",
-        "length": 6437,
+        "language": "english",
+        "length": 1159,
         "links": [
-          "recursospython.com",
-          "wikipedia.org",
-          "creativecommons.org",
-          "mkdocs.org"
+          "nodejs.org",
+          "github.com",
+          "linuxfoundation.org",
+          "research.net",
+          "openjsf.org",
+          "lfx.dev",
+          "bsky.app",
+          "twitter.com",
+          "linkedin.com"
         ],
         "multimedia": {
-          "video": "1",
-          "img": "4",
-          "audio": "1"
+          "video": 0,
+          "img": 0,
+          "audio": 0
+        },
+        "perspicuity": 151,
+        "ranking": 5
+      }
+    },
+    {
+      "title": "The Modern JavaScript Tutorial",
+      "link": "https://javascript.info/",
+      "snippet": "Here we learn JavaScript, starting from scratch and go on to advanced concepts like OOP. We concentrate on the language itself here, with the minimum of ...",
+      "image": "https://javascript.info/img/site_preview_en_1200x630.png",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 6433,
+          "keywords": {
+            "javascript": [411, 657, 786, 877, 910, 1111, 1176, 1535, 4994, 5648, 5805]
+          }
+        },
+        "language": "english",
+        "length": 6434,
+        "links": [
+          "javascript.info",
+          "javascript.ru",
+          "twitter.com",
+          "facebook.com",
+          "github.com",
+          "discord.gg",
+          "plnkr.co",
+          "jsbin.com",
+          "codepen.io"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 4,
+          "audio": 0
         },
         "perspicuity": 0,
-        "screenshot": ""
+        "ranking": 6
+      }
+    },
+    {
+      "title": "JavaScript Courses & Tutorials | Codecademy",
+      "link": "https://www.codecademy.com/catalog/language/javascript",
+      "snippet": "Learn how to use JavaScript — a powerful and flexible programming language for adding website interactivity ...",
+      "image": "https://images.codecademy.com/social/logo-codecademy-social.png",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 22516,
+          "keywords": {
+            "javascript": [180, 292, 302, 316, 516, 592, 684, 740, 773, 801, 828, 855, 1001, 1053, 1080, 1226, 1261, 1994, 2831, 3128, 3564, 3699, 4036, 4063, 4312, 4425, 4542, 4562, 4827, 4943, 5051, 5125, 5182, 5561, 5635, 5710, 5814, 5986, 6022, 6467, 8148, 8305, 8469, 8638, 9583, 10039, 10416, 10462, 10870, 11007, 11762, 12072, 12824, 12912, 13038, 13190, 13283, 13376, 13463, 13585, 13986, 14077, 14477, 17074, 17305, 19128, 19330, 20417, 20641, 20792, 21017, 21090, 21225, 21281, 22231]
+          }
+        },
+        "language": "english",
+        "length": 22517,
+        "links": [
+          "codecademy.com",
+          "youtube.com",
+          "mozilla.org",
+          "ctfassets.net",
+          "twitter.com",
+          "instagram.com",
+          "tiktok.com",
+          "trello.com",
+          "apple.com",
+          "google.com"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 111,
+          "audio": 0
+        },
+        "perspicuity": 0,
+        "ranking": 7
+      }
+    },
+    {
+      "title": "How to enable JavaScript in Windows - Microsoft Support",
+      "link": "https://support.microsoft.com/en-us/topic/how-to-enable-javascript-in-windows-88d27b37-6484-7fc0-17df-872f65168279",
+      "snippet": "On the web browser menu, click Tools or the \"Tools\" icon (which looks like a gear), and select Internet Options.",
+      "image": "https://support.microsoft.com/images/en-us/9b74379b-dcae-4fb1-9f07-819553260d1d",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 6280,
+          "keywords": {
+            "javascript": [1563, 1697, 1828, 2004, 3691, 3781, 3873, 3950]
+          }
+        },
+        "language": "english",
+        "length": 6281,
+        "links": [
+          "microsoft.com",
+          "xbox.com",
+          "office.com",
+          "skype.com",
+          "google.com",
+          "mozilla.org",
+          "facebook.com",
+          "linkedin.com",
+          "windows.com",
+          "aka.ms"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 20,
+          "audio": 0
+        },
+        "perspicuity": 0,
+        "ranking": 8
+      }
+    },
+    {
+      "title": "Javascript Fatigue. A few days ago, I met up with a friend… | by Eric ...",
+      "link": "https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4",
+      "snippet": "Dec 26, 2015 ... The problem is that by choosing React (and inherently JSX), you've unwittingly opted into a confusing nest of build tools, boilerplate, linters, & time-sinks.",
+      "image": "https://miro.medium.com/v2/resize:fit:900/1*H4Y_NLqni0G4L5oL-hPmqw.png",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 5416,
+          "keywords": {
+            "javascript": [55, 250, 301, 4585, 5111, 5215]
+          }
+        },
+        "language": "english",
+        "length": 5417,
+        "links": [
+          "medium.com",
+          "app.link",
+          "yeoman.io",
+          "github.com",
+          "webpack.github.io",
+          "npmjs.com",
+          "mochajs.org",
+          "vjeux.com",
+          "statuspage.io",
+          "speechify.com"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 6,
+          "audio": 0
+        },
+        "perspicuity": 0,
+        "ranking": 9
+      }
+    },
+    {
+      "title": "Javascript - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Javascript",
+      "snippet": "JavaScript is a high-level programming language that follows the ECMAScript standard. It was originally designed as a scripting language for websites but ...",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 65049,
+          "keywords": {
+            "javascript": [783, 1958, 3376, 3505, 3529, 4162, 4371, 4395, 4581, 4667, 4853, 5487, 5530, 6894, 6975, 7159, 7323, 8118, 10343, 10521, 10760, 11516, 11642, 12159, 12275, 12373, 12485, 12804, 12868, 12974, 13222, 14107, 14538, 14591, 14645, 14834, 15227, 15370, 15420, 15726, 15771, 15831, 15935, 15993, 16041, 16186, 16304, 16440, 16623, 16799, 16841, 17170, 17527, 17900, 18249, 18440, 18571, 18815, 19852, 20227, 21083, 21300, 21428, 21589, 21722, 22004, 22521, 24650, 25072, 25397, 26083, 26195, 26367, 26872, 27149, 27299, 27958, 28068, 28355, 28438, 28945, 29315, 29346, 29622, 29833, 31039, 31265, 31329, 31844, 31968, 32213, 32417, 34145, 34324, 34686, 34895, 35042, 35353, 35544, 35826, 37088, 37371, 37801, 38174, 38381, 38612, 38760, 38846, 38959, 39111, 39357, 39527, 39611, 39875, 39949, 40131, 40263, 40275, 40344, 40523, 40694, 40771, 40861, 40968, 41079, 41106, 41238, 41448, 41550, 41645, 41732, 41771, 41877, 42632, 42816, 43069, 43205, 43845, 43939, 44198, 45365, 45775, 46356, 47338, 47438, 47479, 47542, 47827, 48368, 48490, 48866, 49489, 49648, 50164, 50364, 50714, 50933, 51189, 51271, 51405, 51615, 51730, 51809, 52035, 52222, 52450, 52470, 52482, 52721, 53052, 53783, 54090, 54891, 55982, 56215, 56529, 56900, 57268, 57846, 57983, 58172, 58247, 58629, 58752, 58815, 59078, 59097, 59486, 59516, 60102, 60375, 60497, 61106, 61155, 61189, 61318, 63106, 63392, 63433, 64492, 65015]
+          }
+        },
+        "language": "english",
+        "length": 65050,
+        "links": [
+          "wikipedia.org",
+          "wikimedia.org",
+          "wikidata.org",
+          "mediawiki.org",
+          "wikibooks.org",
+          "wikifunctions.org",
+          "wikiversity.org",
+          "ecma-international.org",
+          "mozilla.org",
+          "archive.org",
+          "netscape.com",
+          "tc39.es",
+          "github.com",
+          "google.com",
+          "exploringjs.com",
+          "brendaneich.com",
+          "youtube.com",
+          "loc.gov",
+          "worldcat.org",
+          "openlibrary.org",
+          "w3techs.com",
+          "mwdwebsites.com",
+          "wired.com",
+          "speakingjs.com",
+          "oreilly.com",
+          "microsoft.com",
+          "technologizer.com",
+          "searchenginejournal.com",
+          "bbc.co.uk",
+          "pcgameshardware.com",
+          "lifehacker.com",
+          "theserverside.com",
+          "linux.com",
+          "thenewstack.io",
+          "uspto.gov",
+          "oracle.com",
+          "indiatimes.com",
+          "theregister.com",
+          "infoworld.com",
+          "clouddevs.com",
+          "vanilla-js.com",
+          "readwrite.com",
+          "adobe.com",
+          "livejournal.com",
+          "graalvm.org",
+          "tessel.io",
+          "w3schools.com",
+          "espruino.com",
+          "telerik.com",
+          "v8.dev",
+          "medium.com",
+          "dev.to",
+          "destroyallsoftware.com",
+          "crockford.com",
+          "eloquentjavascript.net",
+          "yehudakatz.com",
+          "peterseliger.blogspot.de",
+          "vub.ac.be",
+          "cocktailjs.github.io",
+          "wordpress.com",
+          "adsafe.org",
+          "mozillazine.org",
+          "anta.net",
+          "serviceobjects.com",
+          "arxiv.org",
+          "doi.org",
+          "semanticscholar.org",
+          "neu.edu",
+          "qz.com",
+          "scmagazineuk.com",
+          "com.com",
+          "securitytracker.com",
+          "securityfocus.com",
+          "fusionauthority.com",
+          "msdn.com",
+          "cert.org",
+          "symantec.com",
+          "vice.com",
+          "arstechnica.com",
+          "slate.com",
+          "vusec.net",
+          "spectreattack.com",
+          "benchmarkjs.com",
+          "jsben.ch",
+          "visualstudiomagazine.com",
+          "asmjs.org",
+          "wiktionary.org",
+          "javascript.info",
+          "pldi21.org",
+          "d-nb.info",
+          "bnf.fr",
+          "nkp.cz",
+          "bne.es",
+          "nli.org.il",
+          "idref.fr",
+          "elmcip.net",
+          "wikimediafoundation.org"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 25,
+          "audio": 1
+        },
+        "perspicuity": 0,
+        "ranking": 10
+      }
+    },
+    {
+      "title": "𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝",
+      "link": "https://www.reddit.com/r/Javascript/",
+      "snippet": "r/javascript: Chat about javascript and javascript related projects. Yes, typescript counts. Please keep self promotion to a minimum/reasonable level.",
+      "image": "https://www.redditstatic.com/shreddit/assets/favicon/192x192.png",
+      "metrics": {
+        "keywords-position": -1,
+        "language": "english",
+        "length": -1,
+        "links": -1,
+        "multimedia": -1,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
+        "ranking": 11
+      }
+    },
+    {
+      "title": "The Two Pillars of JavaScript. Part 1: How to Escape the 7th Circle of ...",
+      "link": "https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3",
+      "snippet": "Oct 21, 2014 ... JavaScript is one of the most important programming languages of all time, not simply because of its popularity, but because it popularized two paradigms.",
+      "image": "https://miro.medium.com/v2/resize:fit:1024/1*ln-oLGD2p_si8grReagCEw.jpeg",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 16370,
+          "keywords": {
+            "javascript": [63, 80, 179, 456, 518, 565, 1592, 1783, 1931, 1988, 2449, 2566, 2879, 3007, 3086, 3251, 3341, 3524, 3626, 3705, 5199, 5403, 8064, 10392, 10528, 12487, 13705, 15324, 16006, 16041, 16099, 16261]
+          }
+        },
+        "language": "english",
+        "length": 16371,
+        "links": [
+          "medium.com",
+          "app.link",
+          "me.dm",
+          "ericelliottjs.com",
+          "youtube.com",
+          "amazon.com",
+          "artima.com",
+          "bit.ly",
+          "vimeo.com",
+          "leanpub.com",
+          "devanywhere.io",
+          "statuspage.io",
+          "speechify.com"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 9,
+          "audio": 0
+        },
+        "perspicuity": 0,
+        "ranking": 12
+      }
+    },
+    {
+      "title": "Learn Javascript",
+      "link": "https://www.reddit.com/r/learnjavascript/",
+      "snippet": "Open the inspector/console ( Ctrl+Shift+K or Ctrl+Shift+I ) for Reddit home page [or any other page] and run this script:",
+      "image": "https://styles.redditmedia.com/t5_2tugi/styles/communityIcon_7yzrvmem0wi31.png",
+      "metrics": {
+        "keywords-position": -1,
+        "language": "english",
+        "length": -1,
+        "links": -1,
+        "multimedia": -1,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
+        "ranking": 13
+      }
+    },
+    {
+      "title": "JavaScript Bloat in 2024 @ tonsky.me",
+      "link": "https://tonsky.me/blog/js-bloat/",
+      "snippet": "Feb 22, 2024 ... If the average web page size is 3 MB, then JavaScript bundle should be around 1 MB. Surely content should still take the majority, no? Well, the only way to ...",
+      "image": "https://dynogee.com/gen?id=24m2qx9uethuw6p&title=JavaScript+Bloat+in+2024",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 8140,
+          "keywords": {
+            "javascript": [78, 410, 855, 974, 1097, 1871, 5300, 6145, 6972, 7242, 7556]
+          }
+        },
+        "language": "english",
+        "length": 8141,
+        "links": [
+          "tonsky.me",
+          "velog.io",
+          "habr.com",
+          "react.dev",
+          "twitter.com",
+          "ycombinator.com",
+          "patreon.com",
+          "github.com"
+        ],
+        "multimedia": {
+          "video": 1,
+          "img": 44,
+          "audio": 0
+        },
+        "perspicuity": 0,
+        "ranking": 14
+      }
+    },
+    {
+      "title": "Eloquent JavaScript",
+      "link": "https://eloquentjavascript.net/",
+      "snippet": "Eloquent JavaScript. 4th edition (2024). This is a book about JavaScript, programming, and the wonders of the digital. You can read it online here, or buy your ...",
+      "image": "https://eloquentjavascript.net/img/cover.jpg",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 1791,
+          "keywords": {
+            "javascript": [9, 59, 966, 1203]
+          }
+        },
+        "language": "english",
+        "length": 1792,
+        "links": [
+          "eloquentjavascript.net",
+          "nostarch.com",
+          "creativecommons.org",
+          "pechane.com",
+          "madalinatantareanu.com",
+          "regexper.com",
+          "lessmilk.com",
+          "vercel.app",
+          "hsoub.com",
+          "eloquentjs.ir",
+          "thedojo.mx",
+          "gitbooks.io",
+          "to6esko.github.io",
+          "github.com"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 1,
+          "audio": 0
+        },
+        "perspicuity": 98,
+        "ranking": 15
+      }
+    },
+    {
+      "title": "How it feels to learn JavaScript in 2016 | HackerNoon",
+      "link": "https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f",
+      "snippet": "Oct 3, 2016 ... This piece is just an opinion, and like any JavaScript framework, it shouldn't be taken too seriously.",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 18815,
+          "keywords": {
+            "javascript": [91, 247, 279, 403, 625, 2037, 2488, 2533, 2988, 3070, 4605, 4710, 5654, 8416, 8443, 8484, 8514, 8722, 8833, 8970, 10027, 12281, 16761, 17010, 17516, 18105]
+          }
+        },
+        "language": "english",
+        "length": 18816,
+        "links": [
+          "hackernoon.com",
+          "imgix.net",
+          "circleci.com",
+          "ycombinator.com",
+          "reddit.com",
+          "arweave.net",
+          "eventscout.io",
+          "gstatic.com",
+          "hipsters.tech",
+          "ranorex.com",
+          "fullstackfeed.com",
+          "qastack.com.br",
+          "itnetwork.cz",
+          "qa-stack.pl",
+          "rahulyesantharao.com",
+          "visualstudiomagazine.com",
+          "brugnara.me",
+          "lorepirri.com",
+          "realpython.com",
+          "wp-sofa.de",
+          "red5.net",
+          "tamu.edu",
+          "jongrim.github.io",
+          "vonage.com",
+          "hackaday.com",
+          "alura.com.br",
+          "ursecta.com",
+          "baldi.me",
+          "yiem.net",
+          "downes.ca",
+          "sambapos.com",
+          "chronoto.pe",
+          "asklocala.com",
+          "webf.zone",
+          "v2ex.com",
+          "jcooney.net",
+          "uncommondescent.com",
+          "postlight.com"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 101,
+          "audio": 0
+        },
+        "perspicuity": 0,
+        "ranking": 16
+      }
+    },
+    {
+      "title": "Simple JavaScript Inheritance - John Resig",
+      "link": "https://johnresig.com/blog/simple-javascript-inheritance/",
+      "snippet": "Mar 20, 2008 ... This implementation is a good place to start and learn the fundamentals of JavaScript class construction and inheritance.",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 38974,
+          "keywords": {
+            "javascript": [79, 146, 202, 272, 2262, 7810, 8164, 8295, 8743, 12820, 14676, 15272, 19358, 19447, 19579, 20126, 23434, 27775, 32721, 32914, 38843]
+          }
+        },
+        "language": "english",
+        "length": 38975,
+        "links": [
+          "johnresig.com",
+          "google.com",
+          "prototypejs.org",
+          "javascriptmvc.com",
+          "ejohn.org",
+          "edwards.name",
+          "rubyonrails.org",
+          "webreflection.blogspot.com",
+          "drawcode.com",
+          "schuerig.de",
+          "sustainablecode.com",
+          "boonstras.com",
+          "gotfresh.info",
+          "uwmike.com",
+          "johntantalo.com",
+          "meblowiec.pl",
+          "less.ly",
+          "amzn.to",
+          "twitter.com",
+          "mastodon.social"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 3,
+          "audio": 0
+        },
+        "perspicuity": 0,
+        "ranking": 17
+      }
+    },
+    {
+      "title": "JavaScript settings and preferences for interactive web pages ...",
+      "link": "https://support.mozilla.org/en-US/kb/javascript-settings-for-interactive-web-pages",
+      "snippet": "Jun 6, 2022 ... JavaScript is a standard programming language that can be included in web pages to provide functionality such as menus, sounds, and other interactive features.",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 6221,
+          "keywords": {
+            "javascript": [1049, 1687, 1846, 1938, 1967, 2025, 2066, 2078, 2277, 2345, 2375, 2485, 2550, 2602, 2770, 3154, 3192, 3244, 3294, 3353, 3891, 4001, 4221, 4292, 4385]
+          }
+        },
+        "language": "english",
+        "length": 6222,
+        "links": [
+          "mozilla.org",
+          "mozilla.com",
+          "mozgcp.net",
+          "wikipedia.org",
+          "oracle.com",
+          "mzl.la",
+          "github.com",
+          "twitter.com",
+          "firefox.com",
+          "youtube.com",
+          "instagram.com"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 9,
+          "audio": 0
+        },
+        "perspicuity": 0,
+        "ranking": 18
+      }
+    },
+    {
+      "title": "Java | Oracle",
+      "link": "https://www.java.com/",
+      "snippet": "Oracle Java is the #1 programming language and development platform. It reduces costs, shortens development timeframes, drives innovation, and improves ...",
+      "image": "https://www.java.com/jcom/images/javaUser.jpg",
+      "metrics": {
+        "keywords-position": -1,
+        "language": "english",
+        "length": -1,
+        "links": -1,
+        "multimedia": -1,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
+        "ranking": 19
+      }
+    },
+    {
+      "title": "airbnb/javascript: JavaScript Style Guide - GitHub",
+      "link": "https://github.com/airbnb/javascript",
+      "snippet": "A mostly reasonable approach to JavaScript. Note: this guide assumes you are using Babel, and requires that you use babel-preset-airbnb or the equivalent.",
+      "image": "https://opengraph.githubassets.com/4cf45c343d1e68ffa6fd2b5a375a20e82d356f500c3558db355b5ad9c8f17932/airbnb/javascript",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 81091,
+          "keywords": {
+            "javascript": [2020, 2127, 2446, 2625, 2642, 2910, 2969, 3313, 3821, 3869, 30305, 30767, 35246, 41289, 41772, 42790, 59053, 59424, 59540, 63710, 68431, 71259, 71293, 73037, 73267, 73466, 73496, 73598, 73729, 73813, 73883, 73923, 74112, 74159, 74201, 74359, 74390, 74436, 74489, 74544, 74598, 74728, 74782, 74835, 74870, 74953, 74971, 74983, 75100, 75115, 75301, 75335, 75362, 75388, 75437, 75469, 75497, 75527, 75551, 75583, 75628, 75658, 75707, 75801, 75846, 75894, 75966, 76015, 76061, 76091, 76127, 76159, 76242, 76283, 76347, 76383, 76423, 76449, 76485, 76513, 76541, 76606, 76640, 76693, 76738, 76803, 76833, 76872, 76896, 76935, 76965, 76999, 77085, 77122, 77169, 77206, 77232, 77257, 77281, 77378, 77464, 77498, 77563, 77607, 77647, 77677, 77709, 77756, 77782, 77829, 77864, 77975, 78022, 78071, 78095, 78121, 78159, 78185, 78308, 78353, 78380, 78433, 78476, 78502, 78544, 78585, 78628, 78666, 78712, 78753, 78791, 78835, 78867, 78901, 78928, 78986, 80400, 80430, 80890]
+          }
+        },
+        "language": "english",
+        "length": 81092,
+        "links": [
+          "github.com",
+          "github.blog",
+          "babeljs.io",
+          "npmjs.com",
+          "camo.githubusercontent.com",
+          "gitter.im",
+          "eslint.org",
+          "mozilla.org",
+          "archive.org",
+          "adequatelygood.com",
+          "wordpress.com",
+          "tc39.github.io",
+          "stackoverflow.com",
+          "es5.github.io",
+          "twitter.com",
+          "compat-table.github.io",
+          "kellegous.com",
+          "quora.com",
+          "exploringjs.com",
+          "roadmap.sh",
+          "ecma-international.org",
+          "jshint.com",
+          "neutrinojs.org",
+          "google.github.io",
+          "jquery.org",
+          "standardjs.com",
+          "sideeffect.kr",
+          "benalman.com",
+          "2ality.com",
+          "youmightnotneedjquery.com",
+          "amazon.com",
+          "humanjavascript.com",
+          "superherojs.com",
+          "revolunet.com",
+          "manning.com",
+          "amzn.com",
+          "eloquentjavascript.net",
+          "oreilly.com",
+          "javascriptweekly.com",
+          "bocoup.com",
+          "nczonline.net",
+          "perfectionkills.com",
+          "baranovskiy.com",
+          "tutsplus.com",
+          "javascriptair.com",
+          "devchat.tv",
+          "cdatribe-nsn.gov",
+          "drupalcode.org",
+          "reactjs.org",
+          "raw.githubusercontent.com",
+          "avatars.githubusercontent.com",
+          "githubstatus.com"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 41,
+          "audio": 0
+        },
+        "perspicuity": 0,
+        "ranking": 20
+      }
+    },
+    {
+      "title": "JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 ...",
+      "link": "https://javascript30.com/",
+      "snippet": "30 Day Vanilla JS Coding Challenge. Build 30 things in 30 days with 30 tutorials. No Frameworks×No Compilers×No Libraries×No Boilerplate.",
+      "image": "https://javascript30.com/images/JS3-social-share.png",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 7045,
+          "keywords": {
+            "javascript": [1, 564, 934, 1253, 1406, 1500, 1535, 1576, 1677, 1714, 2576, 2622, 3330, 3627, 5678, 6911]
+          }
+        },
+        "language": "english",
+        "length": 7046,
+        "links": [
+          "javascript30.com",
+          "wesbos.com",
+          "twitter.com",
+          "facebook.com",
+          "vimeo.com",
+          "beginnerjavascript.com",
+          "syntax.fm",
+          "reactforbeginners.com",
+          "advancedreact.com",
+          "es6.io",
+          "learnnode.com",
+          "cssgrid.io",
+          "flexbox.io",
+          "commandlinepoweruser.com",
+          "speechpad.com",
+          "cloudinary.com",
+          "youtube.com"
+        ],
+        "multimedia": {
+          "video": 1,
+          "img": 31,
+          "audio": 0
+        },
+        "perspicuity": 0,
+        "ranking": 21
+      }
+    },
+    {
+      "title": "The JavaScript Build System We Built After Trying Everything Else ...",
+      "link": "https://javascript.plainenglish.io/the-javascript-build-system-we-built-after-trying-everything-else-89d25cf0f184",
+      "snippet": "May 6, 2025 ... Open-Sourcing BuildFlow · Task-based build definition · Intelligent, fine-grained caching · Development server optimized for HMR · Production ...",
+      "image": "https://miro.medium.com/v2/resize:fit:1000/0*jwpcXcwaaL-MIyDt.jpg",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 1943,
+          "keywords": {
+            "javascript": [70, 120, 250, 938, 1118, 1478, 1550]
+          }
+        },
+        "language": "english",
+        "length": 1944,
+        "links": [
+          "plainenglish.io",
+          "app.link",
+          "medium.com",
+          "me.dm",
+          "codersstop.com",
+          "statuspage.io",
+          "speechify.com"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 8,
+          "audio": 0
+        },
+        "perspicuity": 89,
+        "ranking": 22
+      }
+    },
+    {
+      "title": "ECMA-262 - Ecma International",
+      "link": "https://ecma-international.org/publications-and-standards/standards/ecma-262/",
+      "snippet": "ECMAScript® 2024 language specification, 15th edition - ECMAScript is a programming language based on several technologies like JavaScript.",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 4344,
+          "keywords": {
+            "javascript": []
+          }
+        },
+        "language": "english",
+        "length": 4345,
+        "links": [
+          "ecma-international.org",
+          "twitter.com",
+          "linkedin.com",
+          "tc39.es",
+          "github.com"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 0,
+          "audio": 0
+        },
+        "perspicuity": 0,
+        "ranking": 23
+      }
+    },
+    {
+      "title": "JavaScript Minifier & Compressor | Toptal®",
+      "link": "https://www.toptal.com/developers/javascript-minifier",
+      "snippet": "Online JavaScript Minifier Tool and Compressor, with Fast and Simple API Access. Input JavaScript Clear Minify Minified JavaScript Output Copy to Clipboard",
+      "image": "https://www.toptal.com/developers/javascript-minifierog-image.png",
+      "metrics": {
+        "keywords-position": -1,
+        "language": "english",
+        "length": -1,
+        "links": -1,
+        "multimedia": -1,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
+        "ranking": 24
+      }
+    },
+    {
+      "title": "The Healing Power of JavaScript | WIRED",
+      "link": "https://www.wired.com/story/healing-power-javascript-code-programming/",
+      "snippet": "Apr 6, 2021 ... Code soothes because it can provide control in moments when the world seems to spiral. Reductively, programming consists of little puzzles to be solved.",
+      "image": "https://media.wired.com/photos/606b9824464552bbcdd172d6/191:100/w_1280,c_limit/ideas-coding-therapy.jpg",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 15470,
+          "keywords": {
+            "javascript": [65, 429, 1457]
+          }
+        },
+        "language": "english",
+        "length": 15471,
+        "links": [
+          "wired.com",
+          "github.com",
+          "craigmod.com",
+          "wirededucation.com",
+          "condenast.com",
+          "condenaststore.com",
+          "aboutads.info",
+          "wired.it",
+          "wired.jp",
+          "wired.cz",
+          "facebook.com",
+          "twitter.com",
+          "pinterest.com",
+          "youtube.com",
+          "instagram.com",
+          "tiktok.com"
+        ],
+        "multimedia": {
+          "video": 1,
+          "img": 15,
+          "audio": 0
+        },
+        "perspicuity": 0,
+        "ranking": 25
+      }
+    },
+    {
+      "title": "ArcGIS Maps SDK for JavaScript 4.32 | Esri Developer",
+      "link": "https://developers.arcgis.com/javascript/latest/",
+      "snippet": "ArcGIS Maps SDK for JavaScript ... This guide describes how to use the ArcGIS Maps SDK for JavaScript to build compelling web apps that unlock your data's ...",
+      "image": "https://developers.arcgis.com/javascript/latest/static/9314e3eb26e635ae04a72fc41d818da1/e1e8c/elevation-analysis.png",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 2393,
+          "keywords": {
+            "javascript": [397, 821, 926]
+          }
+        },
+        "language": "english",
+        "length": 2394,
+        "links": [
+          "arcgis.com",
+          "esri.com",
+          "esri.github.io",
+          "twitter.com",
+          "youtube.com"
+        ],
+        "multimedia": {
+          "video": 1,
+          "img": 12,
+          "audio": 0
+        },
+        "perspicuity": 16,
+        "ranking": 26
+      }
+    },
+    {
+      "title": "Speeding up the JavaScript ecosystem - one library at a time",
+      "link": "https://marvinh.dev/blog/speeding-up-javascript-ecosystem/",
+      "snippet": "Nov 29, 2022 ... Most popular libraries can be sped up by avoiding unnecessary type conversions or by avoiding creating functions inside functions.",
+      "image": "https://marvinh.dev/media/me-twitter.jpg",
+      "metrics": {
+        "keywords-position": -1,
+        "language": "english",
+        "length": -1,
+        "links": -1,
+        "multimedia": -1,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
+        "ranking": 27
+      }
+    },
+    {
+      "title": "p5.js",
+      "link": "https://p5js.org/",
+      "snippet": "p5.js is a friendly tool for learning to code and make art. It is a free and open-source JavaScript library built by an inclusive, nurturing community.",
+      "image": "https://p5js.org/_astro/hero.Bs2hPNEZ.webp",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 2405,
+          "keywords": {
+            "javascript": [203]
+          }
+        },
+        "language": "english",
+        "length": 2406,
+        "links": [
+          "p5js.org",
+          "archive.org",
+          "openprocessing-usercontent.s3.amazonaws.com",
+          "github.com",
+          "instagram.com",
+          "twitter.com",
+          "youtube.com",
+          "discord.gg",
+          "processing.org"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 15,
+          "audio": 0
+        },
+        "perspicuity": 48,
+        "ranking": 28
+      }
+    },
+    {
+      "title": "Why I'm skeptical of rewriting JavaScript tools in “faster” languages ...",
+      "link": "https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/",
+      "snippet": "Oct 20, 2024 ... One reason for my skepticism is that I just don't think we've exhausted all the possibilities of making JavaScript tools faster.",
+      "image": "https://nolanlawson.com/wp-content/uploads/2025/01/favicon.png?w=32",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 24255,
+          "keywords": {
+            "javascript": [253, 361, 407, 426, 534, 973, 1385, 1573, 1803, 1847, 2011, 3360, 3941, 3960, 4643, 5030, 5402, 5763, 5798, 6122, 6215, 6307, 6756, 6980, 7341, 7650, 7784, 8185, 8281, 8632, 8741, 10049, 11929, 12292, 13379, 13525, 14003, 15207, 15418, 15631, 15892, 15976, 16751, 17013, 17834, 18993, 19577, 19638, 19696, 19793, 19827, 19919, 20483, 20778, 21556, 23439]
+          }
+        },
+        "language": "english",
+        "length": 24256,
+        "links": [
+          "nolanlawson.com",
+          "wp.com",
+          "github.com",
+          "marvinh.dev",
+          "rolldown.rs",
+          "rollupjs.org",
+          "oxc.rs",
+          "eslint.org",
+          "biomejs.dev",
+          "prettier.io",
+          "youtube.com",
+          "v8.dev",
+          "mozilla.org",
+          "joyeecheung.github.io",
+          "blurha.sh",
+          "fosstodon.org",
+          "chrome.com",
+          "voidzero.dev",
+          "microsoft.com",
+          "wikipedia.org",
+          "gravatar.com",
+          "ycombinator.com",
+          "wordpress.com",
+          "facebook.com",
+          "prisma.io",
+          "akismet.com",
+          "toot.cafe",
+          "npmjs.com",
+          "wp.me"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 25,
+          "audio": 0
+        },
+        "perspicuity": 0,
+        "ranking": 29
+      }
+    },
+    {
+      "title": "D3 by Observable | The JavaScript library for bespoke data ...",
+      "link": "https://d3js.org/",
+      "snippet": "The JavaScript library for bespoke data visualization. Create custom dynamic visualizations with unparalleled flexibility.",
+      "image": "https://static.observableusercontent.com/thumbnail/27308e079a4f30e91d0e7be7da4906aac12f4b7fc37538c311e56488de5d8448.jpg",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 2185,
+          "keywords": {
+            "javascript": [50, 1995]
+          }
+        },
+        "language": "english",
+        "length": 2186,
+        "links": [
+          "d3js.org",
+          "github.com",
+          "observablehq.com",
+          "observableusercontent.com"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 57,
+          "audio": 0
+        },
+        "perspicuity": 63,
+        "ranking": 30
+      }
+    },
+    {
+      "title": "V8 JavaScript engine",
+      "link": "https://v8.dev/",
+      "snippet": "V8 is Google's open source high-performance JavaScript and WebAssembly engine, written in C++. It is used in Chrome and in Node.js, among others. It implements ...",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 1496,
+          "keywords": {
+            "javascript": [113, 422, 531, 592, 652, 732, 791, 1126]
+          }
+        },
+        "language": "english",
+        "length": 1497,
+        "links": [
+          "v8.dev",
+          "tc39.es",
+          "webassembly.github.io",
+          "google.com",
+          "twitter.com",
+          "github.com",
+          "googlesource.com",
+          "creativecommons.org"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 0,
+          "audio": 0
+        },
+        "perspicuity": 105,
+        "ranking": 31
+      }
+    },
+    {
+      "title": "JavaScript · Bootstrap",
+      "link": "https://getbootstrap.com/docs/3.4/javascript/",
+      "snippet": "Bring Bootstrap's components to life with over a dozen custom jQuery plugins. Easily include them all, or one by one.",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 80481,
+          "keywords": {
+            "javascript": [189, 279, 609, 1173, 2053, 6074, 6162, 6300, 6437, 7131, 8032, 8942, 11991, 17477, 17737, 17989, 18051, 18145, 21682, 22954, 22988, 23120, 28498, 28578, 28945, 31890, 32383, 37993, 39945, 49217, 49313, 68161, 68273, 73602, 73654, 73773, 75837, 77030, 77455, 77492, 77682, 79637]
+          }
+        },
+        "language": "english",
+        "length": 80482,
+        "links": [
+          "getbootstrap.com",
+          "herodevs.com",
+          "github.com",
+          "npmjs.com",
+          "mozilla.org",
+          "stackoverflow.com",
+          "jquery.com",
+          "jsbin.com",
+          "twitter.com",
+          "creativecommons.org"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 6,
+          "audio": 0
+        },
+        "perspicuity": 0,
+        "ranking": 32
+      }
+    },
+    {
+      "title": "JavaScript Weekly: The JavaScript Email Newsletter",
+      "link": "https://javascriptweekly.com/",
+      "snippet": "JSON-Powered White-Label Form Builder for Your JavaScript App — Build dynamic JSON-driven forms in your JavaScript application with SurveyJS — a fully ...",
+      "image": "https://res.cloudinary.com/cpress/image/upload/c_limit,w_480,h_480,q_auto/copm/c5d68214.png",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 419,
+          "keywords": {
+            "javascript": [0, 40, 74, 311]
+          }
+        },
+        "language": "english",
+        "length": 420,
+        "links": [
+          "javascriptweekly.com",
+          "cooperpress.com"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 0,
+          "audio": 0
+        },
+        "perspicuity": 175,
+        "ranking": 33
+      }
+    },
+    {
+      "title": "ECMAScript® 2026 Language Specification",
+      "link": "https://tc39.es/ecma262/",
+      "snippet": "ECMAScript is based on several originating technologies, the most well-known being JavaScript (Netscape) and JScript (Microsoft). The language was invented ...",
+      "image": "https://tc39.es/ecmarkup/ecma-logo.png",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 2001328,
+          "keywords": {
+            "javascript": [89299]
+          }
+        },
+        "language": "english",
+        "length": 2001329,
+        "links": [
+          "tc39.es",
+          "github.com",
+          "bsky.app",
+          "es.discourse.group",
+          "esdiscuss.org",
+          "unicode.org",
+          "ecma-international.org",
+          "whatwg.org",
+          "ampl.com",
+          "sandia.gov",
+          "netlib.org",
+          "sourceforge.net",
+          "iana.org",
+          "acm.org",
+          "jucs.org",
+          "ietf.org",
+          "princexml.com"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 7,
+          "audio": 0
+        },
+        "perspicuity": {
+          "code": -1,
+          "message": "Language not supported"
+        },
+        "ranking": 34
+      }
+    },
+    {
+      "title": "Google Maps Platform Documentation | Maps JavaScript API ...",
+      "link": "https://developers.google.com/maps/documentation/javascript",
+      "snippet": "May 14, 2024 ... Build dynamic, interactive, deeply customized maps, location, and geospatial experiences for your web apps.",
+      "image": "https://developers.google.com/static/maps/images/google-maps-platform-1200x675.png",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 12892,
+          "keywords": {
+            "javascript": [280, 788, 1485, 1738, 1859, 1978, 5751, 6259, 6784, 6905, 7095, 7340, 7467, 7823]
+          }
+        },
+        "language": "english",
+        "length": 12893,
+        "links": [
+          "google.com",
+          "github.com",
+          "youtube.com",
+          "linkedin.com",
+          "discord.gg",
+          "stackoverflow.com",
+          "creativecommons.org",
+          "apache.org",
+          "gstatic.com"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 11,
+          "audio": 0
+        },
+        "perspicuity": 0,
+        "ranking": 35
+      }
+    },
+    {
+      "title": "JavaScript | OpenTelemetry",
+      "link": "https://opentelemetry.io/docs/languages/js/",
+      "snippet": "Mar 17, 2025 ... A language-specific implementation of OpenTelemetry in JavaScript (for Node.js & the browser). This is the OpenTelemetry JavaScript documentation.",
+      "image": "https://opentelemetry.io/img/social/logo-wordmark-001.png",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 10555,
+          "keywords": {
+            "javascript": [1676, 3193, 7492, 7502, 7568, 7633, 7944, 8046, 8370, 8530, 8669, 8877, 8968, 9257, 9392, 9562, 9716, 9984, 10040, 10128, 10245, 10440]
+          }
+        },
+        "language": "english",
+        "length": 10556,
+        "links": [
+          "opentelemetry.io",
+          "github.com",
+          "google.com",
+          "cncf.io",
+          "bsky.app",
+          "fosstodon.org",
+          "stackoverflow.com",
+          "slack.com",
+          "linuxfoundation.org",
+          "creativecommons.org"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 1,
+          "audio": 0
+        },
+        "perspicuity": 0,
+        "ranking": 36
+      }
+    },
+    {
+      "title": "Writing Javascript without a build system",
+      "link": "https://jvns.ca/blog/2023/02/16/writing-javascript-without-a-build-system/",
+      "snippet": "Feb 16, 2023 ... a no-build-system template for using Vue. A couple of people asked how to get started writing Javascript without a build system. Of course you ...",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 10131,
+          "keywords": {
+            "javascript": [110, 146, 207, 492, 729, 844, 919, 1120, 2156, 6251, 7272, 7283, 7624, 8468, 9150, 9253, 9730]
+          }
+        },
+        "language": "english",
+        "length": 10132,
+        "links": [
+          "jvns.ca",
+          "bsky.app",
+          "github.com",
+          "wizardzines.com",
+          "tailwindcss.com",
+          "messwithdns.net",
+          "stackoverflow.com",
+          "codemirror.net",
+          "unpkg.com",
+          "microsoft.com",
+          "archive.org",
+          "recurse.com"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 0,
+          "audio": 0
+        },
+        "perspicuity": 0,
+        "ranking": 37
+      }
+    },
+    {
+      "title": "jQuery",
+      "link": "https://jquery.com/",
+      "snippet": "jQuery: The Write Less, Do More, JavaScript Library.",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 3165,
+          "keywords": {
+            "javascript": [924, 1233]
+          }
+        },
+        "language": "english",
+        "length": 3166,
+        "links": [
+          "jquery.com",
+          "jqueryui.com",
+          "jquerymobile.com",
+          "sizzlejs.com",
+          "qunitjs.com",
+          "jquery.org",
+          "openjsf.org",
+          "stackoverflow.com",
+          "github.com",
+          "packtpub.com",
+          "manning.com",
+          "syncfusion.com",
+          "twitter.com",
+          "linuxfoundation.org",
+          "digitalocean.com",
+          "fastly.com",
+          "wordpress.org"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 3,
+          "audio": 0
+        },
+        "perspicuity": 49,
+        "ranking": 38
+      }
+    },
+    {
+      "title": "Bolt for JavaScript | Bolt for JavaScript",
+      "link": "https://tools.slack.dev/bolt-js/",
+      "snippet": "Bolt for JavaScript is a JavaScript framework to build Slack apps with the latest Slack platform features. Read the Getting Started Guide to set up and run your ...",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 1744,
+          "keywords": {
+            "javascript": [49, 201, 472, 492, 508, 876, 1177]
+          }
+        },
+        "language": "english",
+        "length": 1745,
+        "links": [
+          "slack.dev",
+          "slack.com",
+          "github.com"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 2,
+          "audio": 0
+        },
+        "perspicuity": 90,
+        "ranking": 39
+      }
+    },
+    {
+      "title": "JavaScript (ES6) code snippets - Visual Studio Marketplace",
+      "link": "https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets",
+      "snippet": "In order to install an extension you need to launch the Command Palette (Ctrl + Shift + P or Cmd + Shift + P) and type Extensions. There you have either the ...",
+      "image": "https://xabikos.gallerycdn.vsassets.io/extensions/xabikos/javascriptsnippets/1.8.0/1587489699375/Microsoft.VisualStudio.Services.Icons.Default",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 4268,
+          "keywords": {
+            "javascript": [66, 134, 239, 431, 450, 518, 577, 1276, 1361, 1395]
+          }
+        },
+        "language": "english",
+        "length": 4269,
+        "links": [
+          "visualstudio.com",
+          "vsassets.io",
+          "microsoft.com",
+          "apphb.com",
+          "codestream.com",
+          "aka.ms"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 11,
+          "audio": 0
+        },
+        "perspicuity": 0,
+        "ranking": 40
+      }
+    },
+    {
+      "title": "JavaScript in Visual Studio Code",
+      "link": "https://code.visualstudio.com/docs/languages/javascript",
+      "snippet": "Visual Studio Code includes built-in JavaScript IntelliSense, debugging, formatting, code navigation, refactorings, and many other advanced language features.",
+      "image": "https://code.visualstudio.com/opengraphimg/opengraph-docs.png",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 27730,
+          "keywords": {
+            "javascript": [1409, 1560, 1584, 5093, 5247, 7543, 7985, 8055, 8322, 8555, 8824, 8979, 9022, 9123, 9190, 9322, 9395, 9522, 9806, 9972, 10014, 10196, 10272, 10299, 10361, 10467, 10594, 11393, 11688, 11762, 11992, 12599, 12911, 13120, 13158, 13568, 13926, 14217, 14413, 14568, 14885, 14967, 15088, 15209, 15307, 15548, 15671, 16439, 16516, 17570, 17988, 18013, 18061, 19209, 19456, 19898, 20119, 20235, 20834, 21164, 21322, 21454, 21612, 21690, 21855, 22077, 22101, 22429, 22569, 22855, 22896, 22925, 22969, 23129, 23638, 23722, 24007, 24062, 24520, 26241, 26298, 26558, 26683, 26724, 26910, 27050, 27113, 27145, 27242]
+          }
+        },
+        "language": "english",
+        "length": 27731,
+        "links": [
+          "visualstudio.com",
+          "github.copilot-chat",
+          "vscode.dev",
+          "jsdoc.app",
+          "material-ui.com",
+          "reactjs.org",
+          "github.com",
+          "wikipedia.org",
+          "npmjs.com",
+          "flutter.dev",
+          "typescriptlang.org",
+          "eslint.org",
+          "flow.org",
+          "microsoft.com",
+          "youtube.com"
+        ],
+        "multimedia": {
+          "video": 9,
+          "img": 30,
+          "audio": 0
+        },
+        "perspicuity": 0,
+        "ranking": 41
+      }
+    },
+    {
+      "title": "JavaScript Syntax",
+      "link": "http://www.w3schools.com/JS/js_syntax.asp",
+      "snippet": "JavaScript Variables. In a programming language, variables are used to store data values. JavaScript uses the keywords var , let and const to declare variables.",
+      "image": "http://www.w3schools.com/JS/images/img_javascript_syntax.png",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 16052,
+          "keywords": {
+            "javascript": [1322, 1339, 3393, 3404, 4470, 4481, 6770, 7424, 10327, 10363, 10399, 10442, 10575, 10597, 10745, 11002, 11091, 11332, 11353, 11452, 11569, 12025, 12045, 12452, 12480, 12779, 12826, 12984, 13225, 13285, 13318, 13508, 13569, 13780, 13982, 14109, 14134, 14332, 14800, 15000, 15205, 15408]
+          }
+        },
+        "language": "english",
+        "length": 16053,
+        "links": [
+          "w3schools.com",
+          "youtube.com",
+          "linkedin.com",
+          "discord.com",
+          "facebook.com",
+          "instagram.com",
+          "youtu.be"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 6,
+          "audio": 0
+        },
+        "perspicuity": 0,
+        "ranking": 42
+      }
+    },
+    {
+      "title": "JavaScript: The Good Parts: The Good Parts: Crockford, Douglas ...",
+      "link": "https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742",
+      "snippet": "At 145 pages, \"JavaScript: The Good Parts\" is a quick read packed with lots of information. Douglas Crockford (author) claims that JavaScript is littered with ...",
+      "image": "https://m.media-amazon.com/images/I/41w+nN8Kg0L._BO30,255,255,255_UF900,850_SR1910,1000,0,C_ZA1%252C453,500,900,420,420,AmazonEmber,50,4,0,0_PIRIOFOURANDHALF-medium,BottomLeft,30,-20_QL100_.jpg",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 269999,
+          "keywords": {
+            "javascript": []
+          }
+        },
+        "language": "english",
+        "length": 281637,
+        "links": [
+          "amazon.com"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 0,
+          "audio": 0
+        },
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
+        "ranking": 43
+      }
+    },
+    {
+      "title": "Look out, kids: PHP is the new JavaScript | Mux",
+      "link": "https://www.mux.com/blog/php-is-the-new-javascript",
+      "snippet": "Sep 6, 2024 ... PHP was never going to be a viable choice for scaling apps of the future into the heads of thousands of devs who, just like me, have never checked back in.",
+      "image": "https://cdn.sanity.io/images/2ejqxsnu/production/1055fe5732c7aded728c10d4448d4ae21fec3268-1200x760.png",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 930,
+          "keywords": {
+            "javascript": []
+          }
+        },
+        "language": "english",
+        "length": 931,
+        "links": [
+          "mux.com",
+          "demuxed.com",
+          "howvideo.works",
+          "twitter.com",
+          "linkedin.com",
+          "github.com",
+          "youtube.com"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 0,
+          "audio": 0
+        },
+        "perspicuity": 138,
+        "ranking": 44
+      }
+    },
+    {
+      "title": "You don't need JavaScript for that - HTMHell",
+      "link": "https://www.htmhell.dev/adventcalendar/2023/2/",
+      "snippet": "Dec 2, 2023 ... Just because you know something needs JavaScript, doesn't mean it still does. You can make better websites if you test those assumptions every now and then.",
+      "image": "https://www.htmhell.dev/images/og/advent23_2.png?s=171224",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 16938,
+          "keywords": {
+            "javascript": [82, 217, 2455, 8279, 11661, 12480, 12717, 12814, 15314, 16425, 16576]
+          }
+        },
+        "language": "english",
+        "length": 16939,
+        "links": [
+          "htmhell.dev",
+          "kilianvalkhof.com",
+          "polypane.app",
+          "matuzo.at",
+          "mozilla.org",
+          "youtube.com",
+          "mastodon.social",
+          "twitter.com",
+          "11ty.dev",
+          "github.com"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 0,
+          "audio": 0
+        },
+        "perspicuity": 0,
+        "ranking": 45
+      }
+    },
+    {
+      "title": "Learn Modern Javascript (Build and Test Apps) - Full Course | Udemy",
+      "link": "https://www.udemy.com/course/the-complete-javascript-course/",
+      "snippet": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
+      "image": "https://img-c.udemycdn.com/course/480x270/851712_fc61_6.jpg",
+      "metrics": {
+        "keywords-position": -1,
+        "language": "english",
+        "length": -1,
+        "links": -1,
+        "multimedia": -1,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
+        "ranking": 46
+      }
+    },
+    {
+      "title": "Allow JavaScript in your browser - Google AdSense Help",
+      "link": "https://support.google.com/adsense/answer/12654?hl=en",
+      "snippet": "Allow JavaScript in Google Chrome · On your computer, open Chrome. · At the top right, click More options then Settings. · Click Privacy and security, then Site ...",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 3383,
+          "keywords": {
+            "javascript": [314, 501, 563, 736, 780, 921, 1056, 1089, 1185, 1233, 1327, 1494, 1574, 1659, 1733, 1795, 1863, 2315]
+          }
+        },
+        "language": "english",
+        "length": 3382,
+        "links": [
+          "google.com",
+          "google.cl",
+          "microsoft.com",
+          "mozilla.org",
+          "apple.com",
+          "opera.com",
+          "googleusercontent.com"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 2,
+          "audio": 0
+        },
+        "perspicuity": 54,
+        "ranking": 47
+      }
+    },
+    {
+      "title": "JavaScript Coding Standards – Coding Standards Handbook ...",
+      "link": "https://developer.wordpress.org/coding-standards/wordpress-coding-standards/javascript/",
+      "snippet": "Apr 25, 2019 ... Standards are needed for formatting and styling JavaScript code to maintain the same code consistency as the WordPress standards provide for core PHP, HTML, ...",
+      "image": "https://developer.wordpress.org/wp-content/themes/wporg-developer-2023/images/opengraph-image.png",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 23477,
+          "keywords": {
+            "javascript": [355, 526, 561, 1308, 1490, 1767, 1792, 1848, 2756, 3120, 4578, 4726, 10203, 13725, 13846, 14698, 17202, 17416, 17520, 18796, 19380, 19482, 20581, 21179, 21900, 22294, 22462, 22521, 22802, 22882]
+          }
+        },
+        "language": "english",
+        "length": 23478,
+        "links": [
+          "wordpress.org",
+          "openverse.org",
+          "wordpress.tv",
+          "wordpress.net",
+          "github.com",
+          "jquery.org",
+          "wikipedia.org",
+          "mozilla.org",
+          "npmjs.com",
+          "underscorejs.org",
+          "jshint.com",
+          "gruntjs.com",
+          "nodejs.org",
+          "wordpressfoundation.org",
+          "wordpress.com",
+          "ma.tt",
+          "bbpress.org",
+          "buddypress.org",
+          "x.com",
+          "bsky.app",
+          "mastodon.world",
+          "threads.net",
+          "facebook.com",
+          "instagram.com",
+          "linkedin.com",
+          "tiktok.com",
+          "youtube.com",
+          "tumblr.com",
+          "w.org"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 1,
+          "audio": 0
+        },
+        "perspicuity": 0,
+        "ranking": 48
+      }
+    },
+    {
+      "title": "JavaScript on the Compute platform | Fastly Documentation",
+      "link": "https://www.fastly.com/documentation/guides/compute/javascript/",
+      "snippet": "A JavaScript application for Compute must include Fastly's public package @fastly/js-compute as a dependency as it includes the JavaScript runtime enabling the ...",
+      "image": "https://developer.fastly.com/social-card/?title=JavaScript%20on%20the%20Compute%20platform",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 26343,
+          "keywords": {
+            "javascript": [1569, 1881, 2002, 2111, 2293, 2441, 2488, 2540, 2731, 2901, 2931, 3022, 3181, 3500, 5882, 5905, 6236, 7131, 7893, 8386, 9181, 10123, 11491, 12962, 13118, 13737, 14638, 14693, 15033, 15194, 15320, 15550, 16680, 16921, 17335, 17611, 18498, 19174, 19291, 19488, 20158, 22766, 24743, 25173]
+          }
+        },
+        "language": "english",
+        "length": 26344,
+        "links": [
+          "fastly.com",
+          "dev.to",
+          "edgecompute.app",
+          "webassembly.org",
+          "ecma-international.org",
+          "wintertc.org",
+          "mozilla.org",
+          "npmjs.com",
+          "github.com",
+          "nodejs.org",
+          "eslint.org",
+          "typescriptlang.org",
+          "webpack.js.org",
+          "esbuild.github.io",
+          "fastly.dev",
+          "fastlystatus.com"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 4,
+          "audio": 0
+        },
+        "perspicuity": 0,
+        "ranking": 49
+      }
+    },
+    {
+      "title": "Kotlin for JavaScript | Kotlin Documentation",
+      "link": "https://kotlinlang.org/docs/js-overview.html",
+      "snippet": "4 days ago ... Kotlin for JavaScript﻿ ... Kotlin/JS provides the ability to transpile your Kotlin code, the Kotlin standard library, and any compatible ...",
+      "image": "https://kotlinlang.org/assets/images/open-graph/docs.png",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 4343,
+          "keywords": {
+            "javascript": [22, 158, 370, 494, 875, 3037, 3590, 3808, 4106, 4192]
+          }
+        },
+        "language": "english",
+        "length": 4344,
+        "links": [
+          "kotlinlang.org",
+          "ecma-international.org",
+          "github.com",
+          "nextjs.org",
+          "varabyte.com",
+          "slack.com",
+          "jetbrains.com",
+          "kvision.io",
+          "fritz2.dev",
+          "nacular.github.io"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 0,
+          "audio": 0
+        },
+        "perspicuity": 0,
+        "ranking": 50
       }
     }
   ]

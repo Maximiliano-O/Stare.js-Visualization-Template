@@ -1,6 +1,13 @@
 html, body {
   height: 100%;
+  width: 100%;
 }
+
+#svg {
+  width: 50%;
+  height: 60%;
+}
+
 
 .container {
   padding: 10px;

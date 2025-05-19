@@ -11,13 +11,13 @@
       "image": "https://developer.mozilla.org/mdn-social-share.d893525a4fb5fb1f67a2.png",
       "metrics": {
         "keywords-position": {
-          "documentLength": 19015,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [241, 703, 1237, 1430, 1456, 1569, 1579, 1614, 1890, 1957, 1996, 2027, 2074, 12539, 12717, 12743, 12753, 13037, 13216, 13453, 13573, 13784, 14309, 14357, 14412, 14594, 14710, 14731, 14779, 14835, 14912, 15057, 15172, 15219, 15253, 15297, 15333, 15771, 15816, 15867, 15950, 16004, 16053, 16247, 16305, 16596, 16674, 16755, 16823, 16869, 17499, 17540, 17808, 18015, 18089, 18150]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 19016,
+        "length": 1,
         "links": [
           "mozilla.org",
           "github.com",
@@ -34,7 +34,10 @@
           "img": 0,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 1
       }
     },
@@ -45,13 +48,13 @@
       "image": "https://www.pluralsight.com/content/dam/aem-icons/javascript-com-icon.png",
       "metrics": {
         "keywords-position": {
-          "documentLength": 2363,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [48, 97, 403, 554, 652, 706, 797, 953, 996, 1042, 2349]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 2364,
+        "length": 1,
         "links": [
           "javascript.com",
           "pluralsight.com",
@@ -62,7 +65,10 @@
           "img": 4,
           "audio": 0
         },
-        "perspicuity": 98,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 2
       }
     },
@@ -72,13 +78,13 @@
       "snippet": "JavaScript is a high-level, often just-in-time–compiled language that conforms to the ECMAScript standard. ... It has dynamic typing, prototype-based object- ...",
       "metrics": {
         "keywords-position": {
-          "documentLength": 65020,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [783, 1958, 3476, 3500, 4133, 4342, 4366, 4552, 4638, 4824, 5458, 5501, 6865, 6946, 7130, 7294, 8089, 10314, 10492, 10731, 11487, 11613, 12130, 12246, 12344, 12456, 12775, 12839, 12945, 13193, 14078, 14509, 14562, 14616, 14805, 15198, 15341, 15391, 15697, 15742, 15802, 15906, 15964, 16012, 16157, 16275, 16411, 16594, 16770, 16812, 17141, 17498, 17871, 18220, 18411, 18542, 18786, 19823, 20198, 21054, 21271, 21399, 21560, 21693, 21975, 22492, 24621, 25043, 25368, 26054, 26166, 26338, 26843, 27120, 27270, 27929, 28039, 28326, 28409, 28916, 29286, 29317, 29593, 29804, 31010, 31236, 31300, 31815, 31939, 32184, 32388, 34116, 34295, 34657, 34866, 35013, 35324, 35515, 35797, 37059, 37342, 37772, 38145, 38352, 38583, 38731, 38817, 38930, 39082, 39328, 39498, 39582, 39846, 39920, 40102, 40234, 40246, 40315, 40494, 40665, 40742, 40832, 40939, 41050, 41077, 41209, 41419, 41521, 41616, 41703, 41742, 41848, 42603, 42787, 43040, 43176, 43816, 43910, 44169, 45336, 45746, 46327, 47309, 47409, 47450, 47513, 47798, 48339, 48461, 48837, 49460, 49619, 50135, 50335, 50685, 50904, 51160, 51242, 51376, 51586, 51701, 51780, 52006, 52193, 52421, 52441, 52453, 52692, 53023, 53754, 54061, 54862, 55953, 56186, 56500, 56871, 57239, 57817, 57954, 58143, 58218, 58600, 58723, 58786, 59049, 59068, 59457, 59487, 60073, 60346, 60468, 61077, 61126, 61160, 61289, 63077, 63363, 63404, 64463, 64986]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 65021,
+        "length": 1,
         "links": [
           "wikipedia.org",
           "wikimedia.org",
@@ -183,7 +189,10 @@
           "img": 25,
           "audio": 1
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 3
       }
     },
@@ -194,13 +203,13 @@
       "image": "https://www.w3schools.com/signup/lynxlogo.svg",
       "metrics": {
         "keywords-position": {
-          "documentLength": 15152,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [1322, 1339, 3393, 3404, 4470, 4481, 6770, 7424, 10327, 10363, 10403, 10414, 10475, 10526, 10584, 10634, 10778, 11336, 11370, 11402, 11414, 11570, 11656, 11681, 12191, 12224, 12239, 12290, 12302, 12407, 12447, 12573, 12594, 12625, 12663, 13066, 13119, 13329, 13900, 14100, 14305, 14508]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 15153,
+        "length": 1,
         "links": [
           "w3schools.com",
           "youtube.com",
@@ -214,7 +223,10 @@
           "img": 8,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 4
       }
     },
@@ -225,13 +237,13 @@
       "image": "https://nodejs.org/en/next-data/og/announcement/Node.js%20%E2%80%94%20Run%20JavaScript%20Everywhere",
       "metrics": {
         "keywords-position": {
-          "documentLength": 1158,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [146, 215, 968]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 1159,
+        "length": 1,
         "links": [
           "nodejs.org",
           "github.com",
@@ -248,7 +260,10 @@
           "img": 0,
           "audio": 0
         },
-        "perspicuity": 151,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 5
       }
     },
@@ -259,13 +274,13 @@
       "image": "https://javascript.info/img/site_preview_en_1200x630.png",
       "metrics": {
         "keywords-position": {
-          "documentLength": 6433,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [411, 657, 786, 877, 910, 1111, 1176, 1535, 4994, 5648, 5805]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 6434,
+        "length": 1,
         "links": [
           "javascript.info",
           "javascript.ru",
@@ -282,8 +297,34 @@
           "img": 4,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 6
+      }
+    },
+    {
+      "title": "𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝",
+      "link": "https://www.reddit.com/r/javascript/",
+      "snippet": "r/javascript · Showoff Saturday (May 17, 2025) · Your /r/javascript recap for the week of May 12 - May 18, 2025 · Your /r/javascript recap for the week of May ...",
+      "image": "https://www.redditstatic.com/shreddit/assets/favicon/192x192.png",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 0,
+          "keywords": {
+            "javascript": []
+          }
+        },
+        "language": "english",
+        "length": 1,
+        "links": -1,
+        "multimedia": -1,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
+        "ranking": 7
       }
     },
     {
@@ -293,13 +334,13 @@
       "image": "https://images.codecademy.com/social/logo-codecademy-social.png",
       "metrics": {
         "keywords-position": {
-          "documentLength": 22516,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [180, 292, 302, 316, 516, 592, 684, 740, 773, 801, 828, 855, 1001, 1053, 1080, 1226, 1261, 1994, 2831, 3128, 3564, 3699, 4036, 4063, 4312, 4425, 4542, 4562, 4827, 4943, 5051, 5125, 5182, 5561, 5635, 5710, 5814, 5986, 6022, 6467, 8148, 8305, 8469, 8638, 9583, 10039, 10416, 10462, 10870, 11007, 11762, 12072, 12824, 12912, 13038, 13190, 13283, 13376, 13463, 13585, 13986, 14077, 14477, 17074, 17305, 19128, 19330, 20417, 20641, 20792, 21017, 21090, 21225, 21281, 22231]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 22517,
+        "length": 1,
         "links": [
           "codecademy.com",
           "youtube.com",
@@ -317,8 +358,11 @@
           "img": 111,
           "audio": 0
         },
-        "perspicuity": 0,
-        "ranking": 7
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
+        "ranking": 8
       }
     },
     {
@@ -328,13 +372,13 @@
       "image": "https://support.microsoft.com/images/en-us/9b74379b-dcae-4fb1-9f07-819553260d1d",
       "metrics": {
         "keywords-position": {
-          "documentLength": 6280,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [1563, 1697, 1828, 2004, 3691, 3781, 3873, 3950]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 6281,
+        "length": 1,
         "links": [
           "microsoft.com",
           "xbox.com",
@@ -352,8 +396,11 @@
           "img": 20,
           "audio": 0
         },
-        "perspicuity": 0,
-        "ranking": 8
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
+        "ranking": 9
       }
     },
     {
@@ -363,13 +410,13 @@
       "image": "https://miro.medium.com/v2/resize:fit:900/1*H4Y_NLqni0G4L5oL-hPmqw.png",
       "metrics": {
         "keywords-position": {
-          "documentLength": 5416,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [55, 250, 301, 4585, 5111, 5215]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 5417,
+        "length": 1,
         "links": [
           "medium.com",
           "app.link",
@@ -387,8 +434,11 @@
           "img": 6,
           "audio": 0
         },
-        "perspicuity": 0,
-        "ranking": 9
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
+        "ranking": 10
       }
     },
     {
@@ -397,13 +447,13 @@
       "snippet": "JavaScript is a high-level programming language that follows the ECMAScript standard. It was originally designed as a scripting language for websites but ...",
       "metrics": {
         "keywords-position": {
-          "documentLength": 65049,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [783, 1958, 3376, 3505, 3529, 4162, 4371, 4395, 4581, 4667, 4853, 5487, 5530, 6894, 6975, 7159, 7323, 8118, 10343, 10521, 10760, 11516, 11642, 12159, 12275, 12373, 12485, 12804, 12868, 12974, 13222, 14107, 14538, 14591, 14645, 14834, 15227, 15370, 15420, 15726, 15771, 15831, 15935, 15993, 16041, 16186, 16304, 16440, 16623, 16799, 16841, 17170, 17527, 17900, 18249, 18440, 18571, 18815, 19852, 20227, 21083, 21300, 21428, 21589, 21722, 22004, 22521, 24650, 25072, 25397, 26083, 26195, 26367, 26872, 27149, 27299, 27958, 28068, 28355, 28438, 28945, 29315, 29346, 29622, 29833, 31039, 31265, 31329, 31844, 31968, 32213, 32417, 34145, 34324, 34686, 34895, 35042, 35353, 35544, 35826, 37088, 37371, 37801, 38174, 38381, 38612, 38760, 38846, 38959, 39111, 39357, 39527, 39611, 39875, 39949, 40131, 40263, 40275, 40344, 40523, 40694, 40771, 40861, 40968, 41079, 41106, 41238, 41448, 41550, 41645, 41732, 41771, 41877, 42632, 42816, 43069, 43205, 43845, 43939, 44198, 45365, 45775, 46356, 47338, 47438, 47479, 47542, 47827, 48368, 48490, 48866, 49489, 49648, 50164, 50364, 50714, 50933, 51189, 51271, 51405, 51615, 51730, 51809, 52035, 52222, 52450, 52470, 52482, 52721, 53052, 53783, 54090, 54891, 55982, 56215, 56529, 56900, 57268, 57846, 57983, 58172, 58247, 58629, 58752, 58815, 59078, 59097, 59486, 59516, 60102, 60375, 60497, 61106, 61155, 61189, 61318, 63106, 63392, 63433, 64492, 65015]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 65050,
+        "length": 1,
         "links": [
           "wikipedia.org",
           "wikimedia.org",
@@ -508,21 +558,6 @@
           "img": 25,
           "audio": 1
         },
-        "perspicuity": 0,
-        "ranking": 10
-      }
-    },
-    {
-      "title": "𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝",
-      "link": "https://www.reddit.com/r/Javascript/",
-      "snippet": "r/javascript: Chat about javascript and javascript related projects. Yes, typescript counts. Please keep self promotion to a minimum/reasonable level.",
-      "image": "https://www.redditstatic.com/shreddit/assets/favicon/192x192.png",
-      "metrics": {
-        "keywords-position": -1,
-        "language": "english",
-        "length": -1,
-        "links": -1,
-        "multimedia": -1,
         "perspicuity": {
           "code": -1,
           "message": "Error getting text."
@@ -537,13 +572,13 @@
       "image": "https://miro.medium.com/v2/resize:fit:1024/1*ln-oLGD2p_si8grReagCEw.jpeg",
       "metrics": {
         "keywords-position": {
-          "documentLength": 16370,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [63, 80, 179, 456, 518, 565, 1592, 1783, 1931, 1988, 2449, 2566, 2879, 3007, 3086, 3251, 3341, 3524, 3626, 3705, 5199, 5403, 8064, 10392, 10528, 12487, 13705, 15324, 16006, 16041, 16099, 16261]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 16371,
+        "length": 1,
         "links": [
           "medium.com",
           "app.link",
@@ -564,26 +599,11 @@
           "img": 9,
           "audio": 0
         },
-        "perspicuity": 0,
-        "ranking": 12
-      }
-    },
-    {
-      "title": "Learn Javascript",
-      "link": "https://www.reddit.com/r/learnjavascript/",
-      "snippet": "The idea is pretty simple: It's a website where you can solve JavaScript coding challenges while chatting with an AI assistant that gives you hints, ...",
-      "image": "https://styles.redditmedia.com/t5_2tugi/styles/communityIcon_7yzrvmem0wi31.png",
-      "metrics": {
-        "keywords-position": -1,
-        "language": "english",
-        "length": -1,
-        "links": -1,
-        "multimedia": -1,
         "perspicuity": {
           "code": -1,
           "message": "Error getting text."
         },
-        "ranking": 13
+        "ranking": 12
       }
     },
     {
@@ -593,13 +613,13 @@
       "image": "https://dynogee.com/gen?id=24m2qx9uethuw6p&title=JavaScript+Bloat+in+2024",
       "metrics": {
         "keywords-position": {
-          "documentLength": 8140,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [78, 410, 855, 974, 1097, 1871, 5300, 6145, 6972, 7242, 7556]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 8141,
+        "length": 1,
         "links": [
           "tonsky.me",
           "velog.io",
@@ -615,8 +635,11 @@
           "img": 44,
           "audio": 0
         },
-        "perspicuity": 0,
-        "ranking": 14
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
+        "ranking": 13
       }
     },
     {
@@ -626,13 +649,13 @@
       "image": "https://eloquentjavascript.net/img/cover.jpg",
       "metrics": {
         "keywords-position": {
-          "documentLength": 1791,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [9, 59, 966, 1203]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 1792,
+        "length": 1,
         "links": [
           "eloquentjavascript.net",
           "nostarch.com",
@@ -654,8 +677,11 @@
           "img": 1,
           "audio": 0
         },
-        "perspicuity": 98,
-        "ranking": 15
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
+        "ranking": 14
       }
     },
     {
@@ -664,13 +690,13 @@
       "snippet": "Oct 3, 2016 ... This piece is just an opinion, and like any JavaScript framework, it shouldn't be taken too seriously.",
       "metrics": {
         "keywords-position": {
-          "documentLength": 18815,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [91, 247, 279, 403, 625, 2037, 2488, 2533, 2988, 3070, 4605, 4710, 5654, 8416, 8443, 8484, 8514, 8722, 8833, 8970, 10027, 12281, 16761, 17010, 17516, 18105]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 18816,
+        "length": 1,
         "links": [
           "hackernoon.com",
           "imgix.net",
@@ -716,8 +742,11 @@
           "img": 101,
           "audio": 0
         },
-        "perspicuity": 0,
-        "ranking": 16
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
+        "ranking": 15
       }
     },
     {
@@ -726,13 +755,13 @@
       "snippet": "Mar 20, 2008 ... This implementation is a good place to start and learn the fundamentals of JavaScript class construction and inheritance.",
       "metrics": {
         "keywords-position": {
-          "documentLength": 38974,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [79, 146, 202, 272, 2262, 7810, 8164, 8295, 8743, 12820, 14676, 15272, 19358, 19447, 19579, 20126, 23434, 27775, 32721, 32914, 38843]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 38975,
+        "length": 1,
         "links": [
           "johnresig.com",
           "google.com",
@@ -760,8 +789,11 @@
           "img": 3,
           "audio": 0
         },
-        "perspicuity": 0,
-        "ranking": 17
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
+        "ranking": 16
       }
     },
     {
@@ -770,13 +802,13 @@
       "snippet": "Jun 6, 2022 ... JavaScript is a standard programming language that can be included in web pages to provide functionality such as menus, sounds, and other interactive features.",
       "metrics": {
         "keywords-position": {
-          "documentLength": 6221,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [1049, 1687, 1846, 1938, 1967, 2025, 2066, 2078, 2277, 2345, 2375, 2485, 2550, 2602, 2770, 3154, 3192, 3244, 3294, 3353, 3891, 4001, 4221, 4292, 4385]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 6222,
+        "length": 1,
         "links": [
           "mozilla.org",
           "mozilla.com",
@@ -795,8 +827,11 @@
           "img": 9,
           "audio": 0
         },
-        "perspicuity": 0,
-        "ranking": 18
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
+        "ranking": 17
       }
     },
     {
@@ -805,11 +840,70 @@
       "snippet": "Oracle Java is the #1 programming language and development platform. It reduces costs, shortens development timeframes, drives innovation, and improves ...",
       "image": "https://www.java.com/jcom/images/javaUser.jpg",
       "metrics": {
-        "keywords-position": -1,
+        "keywords-position": {
+          "documentLength": 0,
+          "keywords": {
+            "javascript": []
+          }
+        },
         "language": "english",
-        "length": -1,
+        "length": 1,
         "links": -1,
         "multimedia": -1,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
+        "ranking": 18
+      }
+    },
+    {
+      "title": "Writing JavaScript with accessibility in mind | by Manuel Matuzovic ...",
+      "link": "https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9",
+      "snippet": "Feb 12, 2017 ... It's possible to make non-focusable elements focusable by adding the tabindex attribute with an integer value. If the value is set to 0 the ...",
+      "image": "https://miro.medium.com/v2/resize:fit:800/1*iAXxkKQ0YDwb0PV8v7t2Hw.png",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 0,
+          "keywords": {
+            "javascript": []
+          }
+        },
+        "language": "english",
+        "length": 1,
+        "links": [
+          "medium.com",
+          "app.link",
+          "twitter.com",
+          "sarasoueidan.com",
+          "marcozehe.de",
+          "allyjs.io",
+          "mozilla.org",
+          "adrianroselli.com",
+          "youtube.com",
+          "codepen.io",
+          "github.com",
+          "google.com",
+          "webaim.org",
+          "egghead.io",
+          "css-tricks.com",
+          "youtu.be",
+          "paciellogroup.com",
+          "pauljadam.com",
+          "heydonworks.com",
+          "w3.org",
+          "frend.co",
+          "a11yproject.com",
+          "smashingmagazine.com",
+          "uxdesign.cc",
+          "statuspage.io",
+          "speechify.com"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 5,
+          "audio": 0
+        },
         "perspicuity": {
           "code": -1,
           "message": "Error getting text."
@@ -824,13 +918,13 @@
       "image": "https://opengraph.githubassets.com/4cf45c343d1e68ffa6fd2b5a375a20e82d356f500c3558db355b5ad9c8f17932/airbnb/javascript",
       "metrics": {
         "keywords-position": {
-          "documentLength": 81091,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [2020, 2127, 2446, 2625, 2642, 2910, 2969, 3313, 3821, 3869, 30305, 30767, 35246, 41289, 41772, 42790, 59053, 59424, 59540, 63710, 68431, 71259, 71293, 73037, 73267, 73466, 73496, 73598, 73729, 73813, 73883, 73923, 74112, 74159, 74201, 74359, 74390, 74436, 74489, 74544, 74598, 74728, 74782, 74835, 74870, 74953, 74971, 74983, 75100, 75115, 75301, 75335, 75362, 75388, 75437, 75469, 75497, 75527, 75551, 75583, 75628, 75658, 75707, 75801, 75846, 75894, 75966, 76015, 76061, 76091, 76127, 76159, 76242, 76283, 76347, 76383, 76423, 76449, 76485, 76513, 76541, 76606, 76640, 76693, 76738, 76803, 76833, 76872, 76896, 76935, 76965, 76999, 77085, 77122, 77169, 77206, 77232, 77257, 77281, 77378, 77464, 77498, 77563, 77607, 77647, 77677, 77709, 77756, 77782, 77829, 77864, 77975, 78022, 78071, 78095, 78121, 78159, 78185, 78308, 78353, 78380, 78433, 78476, 78502, 78544, 78585, 78628, 78666, 78712, 78753, 78791, 78835, 78867, 78901, 78928, 78986, 80400, 80430, 80890]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 81092,
+        "length": 1,
         "links": [
           "github.com",
           "github.blog",
@@ -890,7 +984,10 @@
           "img": 41,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 20
       }
     },
@@ -901,13 +998,13 @@
       "image": "https://javascript30.com/images/JS3-social-share.png",
       "metrics": {
         "keywords-position": {
-          "documentLength": 7045,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [1, 564, 934, 1253, 1406, 1500, 1535, 1576, 1677, 1714, 2576, 2622, 3330, 3627, 5678, 6911]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 7046,
+        "length": 1,
         "links": [
           "javascript30.com",
           "wesbos.com",
@@ -932,7 +1029,10 @@
           "img": 31,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 21
       }
     },
@@ -943,13 +1043,13 @@
       "image": "https://miro.medium.com/v2/resize:fit:1000/0*jwpcXcwaaL-MIyDt.jpg",
       "metrics": {
         "keywords-position": {
-          "documentLength": 1943,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [70, 120, 250, 938, 1118, 1478, 1550]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 1944,
+        "length": 1,
         "links": [
           "plainenglish.io",
           "app.link",
@@ -964,7 +1064,10 @@
           "img": 8,
           "audio": 0
         },
-        "perspicuity": 87,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 22
       }
     },
@@ -974,13 +1077,13 @@
       "snippet": "ECMAScript® 2024 language specification, 15th edition - ECMAScript is a programming language based on several technologies like JavaScript.",
       "metrics": {
         "keywords-position": {
-          "documentLength": 4344,
+          "documentLength": 0,
           "keywords": {
             "javascript": []
           }
         },
         "language": "english",
-        "length": 4345,
+        "length": 1,
         "links": [
           "ecma-international.org",
           "twitter.com",
@@ -993,7 +1096,10 @@
           "img": 0,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 23
       }
     },
@@ -1003,9 +1109,14 @@
       "snippet": "Online JavaScript Minifier Tool and Compressor, with Fast and Simple API Access. Input JavaScript Clear Minify Minified JavaScript Output Copy to Clipboard",
       "image": "https://www.toptal.com/developers/javascript-minifierog-image.png",
       "metrics": {
-        "keywords-position": -1,
+        "keywords-position": {
+          "documentLength": 0,
+          "keywords": {
+            "javascript": []
+          }
+        },
         "language": "english",
-        "length": -1,
+        "length": 1,
         "links": -1,
         "multimedia": -1,
         "perspicuity": {
@@ -1022,13 +1133,13 @@
       "image": "https://media.wired.com/photos/606b9824464552bbcdd172d6/191:100/w_1280,c_limit/ideas-coding-therapy.jpg",
       "metrics": {
         "keywords-position": {
-          "documentLength": 15470,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [65, 429, 1457]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 15471,
+        "length": 1,
         "links": [
           "wired.com",
           "github.com",
@@ -1052,7 +1163,10 @@
           "img": 15,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 25
       }
     },
@@ -1063,13 +1177,13 @@
       "image": "https://developers.arcgis.com/javascript/latest/static/9314e3eb26e635ae04a72fc41d818da1/e1e8c/elevation-analysis.png",
       "metrics": {
         "keywords-position": {
-          "documentLength": 2393,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [397, 821, 926]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 2394,
+        "length": 1,
         "links": [
           "arcgis.com",
           "esri.com",
@@ -1082,7 +1196,10 @@
           "img": 12,
           "audio": 0
         },
-        "perspicuity": 16,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 26
       }
     },
@@ -1092,12 +1209,29 @@
       "snippet": "Nov 29, 2022 ... Most popular libraries can be sped up by avoiding unnecessary type conversions or by avoiding creating functions inside functions.",
       "image": "https://marvinh.dev/media/me-twitter.jpg",
       "metrics": {
-        "keywords-position": -1,
+        "keywords-position": {
+          "documentLength": 0,
+          "keywords": {
+            "javascript": []
+          }
+        },
         "language": "english",
-        "length": -1,
-        "links": -1,
-        "multimedia": -1,
-        "perspicuity": 0,
+        "length": 1,
+        "links": [
+          "marvinh.dev",
+          "bsky.app",
+          "github.com",
+          "eslint.org"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 10,
+          "audio": 0
+        },
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 27
       }
     },
@@ -1108,13 +1242,13 @@
       "image": "https://p5js.org/_astro/hero.Bs2hPNEZ.webp",
       "metrics": {
         "keywords-position": {
-          "documentLength": 2405,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [203]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 2406,
+        "length": 1,
         "links": [
           "p5js.org",
           "archive.org",
@@ -1131,7 +1265,10 @@
           "img": 15,
           "audio": 0
         },
-        "perspicuity": 48,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 28
       }
     },
@@ -1142,13 +1279,13 @@
       "image": "https://nolanlawson.com/wp-content/uploads/2025/01/favicon.png?w=32",
       "metrics": {
         "keywords-position": {
-          "documentLength": 24255,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [253, 361, 407, 426, 534, 973, 1385, 1573, 1803, 1847, 2011, 3360, 3941, 3960, 4643, 5030, 5402, 5763, 5798, 6122, 6215, 6307, 6756, 6980, 7341, 7650, 7784, 8185, 8281, 8632, 8741, 10049, 11929, 12292, 13379, 13525, 14003, 15207, 15418, 15631, 15892, 15976, 16751, 17013, 17834, 18993, 19577, 19638, 19696, 19793, 19827, 19919, 20483, 20778, 21556, 23439]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 24256,
+        "length": 1,
         "links": [
           "nolanlawson.com",
           "wp.com",
@@ -1185,7 +1322,10 @@
           "img": 25,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 29
       }
     },
@@ -1196,13 +1336,13 @@
       "image": "https://static.observableusercontent.com/thumbnail/27308e079a4f30e91d0e7be7da4906aac12f4b7fc37538c311e56488de5d8448.jpg",
       "metrics": {
         "keywords-position": {
-          "documentLength": 2185,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [50, 1995]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 2186,
+        "length": 1,
         "links": [
           "d3js.org",
           "github.com",
@@ -1214,7 +1354,10 @@
           "img": 57,
           "audio": 0
         },
-        "perspicuity": 63,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 30
       }
     },
@@ -1224,13 +1367,13 @@
       "snippet": "V8 is Google's open source high-performance JavaScript and WebAssembly engine, written in C++. It is used in Chrome and in Node.js, among others. It implements ...",
       "metrics": {
         "keywords-position": {
-          "documentLength": 1496,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [113, 422, 531, 592, 652, 732, 791, 1126]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 1497,
+        "length": 1,
         "links": [
           "v8.dev",
           "tc39.es",
@@ -1246,7 +1389,10 @@
           "img": 0,
           "audio": 0
         },
-        "perspicuity": 105,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 31
       }
     },
@@ -1256,13 +1402,13 @@
       "snippet": "Bring Bootstrap's components to life with over a dozen custom jQuery plugins. Easily include them all, or one by one.",
       "metrics": {
         "keywords-position": {
-          "documentLength": 80481,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [189, 279, 609, 1173, 2053, 6074, 6162, 6300, 6437, 7131, 8032, 8942, 11991, 17477, 17737, 17989, 18051, 18145, 21682, 22954, 22988, 23120, 28498, 28578, 28945, 31890, 32383, 37993, 39945, 49217, 49313, 68161, 68273, 73602, 73654, 73773, 75837, 77030, 77455, 77492, 77682, 79637]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 80482,
+        "length": 1,
         "links": [
           "getbootstrap.com",
           "herodevs.com",
@@ -1280,7 +1426,10 @@
           "img": 6,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 32
       }
     },
@@ -1291,13 +1440,13 @@
       "image": "https://res.cloudinary.com/cpress/image/upload/c_limit,w_480,h_480,q_auto/copm/c5d68214.png",
       "metrics": {
         "keywords-position": {
-          "documentLength": 419,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [0, 40, 74, 311]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 420,
+        "length": 1,
         "links": [
           "javascriptweekly.com",
           "cooperpress.com"
@@ -1307,7 +1456,10 @@
           "img": 0,
           "audio": 0
         },
-        "perspicuity": 175,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 33
       }
     },
@@ -1318,13 +1470,13 @@
       "image": "https://tc39.es/ecmarkup/ecma-logo.png",
       "metrics": {
         "keywords-position": {
-          "documentLength": 2001328,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [89299]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 2001329,
+        "length": 1,
         "links": [
           "tc39.es",
           "github.com",
@@ -1351,7 +1503,7 @@
         },
         "perspicuity": {
           "code": -1,
-          "message": "Language not supported"
+          "message": "Error getting text."
         },
         "ranking": 34
       }
@@ -1363,13 +1515,13 @@
       "image": "https://developers.google.com/static/maps/images/google-maps-platform-1200x675.png",
       "metrics": {
         "keywords-position": {
-          "documentLength": 12892,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [280, 788, 1485, 1738, 1859, 1978, 5751, 6259, 6784, 6905, 7095, 7340, 7467, 7823]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 12893,
+        "length": 1,
         "links": [
           "google.com",
           "github.com",
@@ -1386,7 +1538,10 @@
           "img": 11,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 35
       }
     },
@@ -1397,13 +1552,13 @@
       "image": "https://opentelemetry.io/img/social/logo-wordmark-001.png",
       "metrics": {
         "keywords-position": {
-          "documentLength": 10555,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [1676, 3193, 7492, 7502, 7568, 7633, 7944, 8046, 8370, 8530, 8669, 8877, 8968, 9257, 9392, 9562, 9716, 9984, 10040, 10128, 10245, 10440]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 10556,
+        "length": 1,
         "links": [
           "opentelemetry.io",
           "github.com",
@@ -1421,7 +1576,10 @@
           "img": 1,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 36
       }
     },
@@ -1431,20 +1589,36 @@
       "snippet": "Feb 16, 2023 ... a no-build-system template for using Vue. A couple of people asked how to get started writing Javascript without a build system. Of course you ...",
       "metrics": {
         "keywords-position": {
-          "documentLength": 10131,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [110, 146, 207, 492, 729, 844, 919, 1120, 2156, 6251, 7272, 7283, 7624, 8468, 9150, 9253, 9730]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 10132,
-        "links": -1,
+        "length": 1,
+        "links": [
+          "jvns.ca",
+          "bsky.app",
+          "github.com",
+          "wizardzines.com",
+          "tailwindcss.com",
+          "messwithdns.net",
+          "stackoverflow.com",
+          "codemirror.net",
+          "unpkg.com",
+          "microsoft.com",
+          "archive.org",
+          "recurse.com"
+        ],
         "multimedia": {
           "video": 0,
           "img": 0,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 37
       }
     },
@@ -1454,13 +1628,13 @@
       "snippet": "jQuery: The Write Less, Do More, JavaScript Library.",
       "metrics": {
         "keywords-position": {
-          "documentLength": 3165,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [924, 1233]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 3166,
+        "length": 1,
         "links": [
           "jquery.com",
           "jqueryui.com",
@@ -1485,7 +1659,10 @@
           "img": 3,
           "audio": 0
         },
-        "perspicuity": 49,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 38
       }
     },
@@ -1495,13 +1672,13 @@
       "snippet": "Bolt for JavaScript is a JavaScript framework to build Slack apps with the latest Slack platform features. Read the Getting Started Guide to set up and run your ...",
       "metrics": {
         "keywords-position": {
-          "documentLength": 1744,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [49, 201, 472, 492, 508, 876, 1177]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 1745,
+        "length": 1,
         "links": [
           "slack.dev",
           "slack.com",
@@ -1512,7 +1689,10 @@
           "img": 2,
           "audio": 0
         },
-        "perspicuity": 90,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 39
       }
     },
@@ -1523,13 +1703,13 @@
       "image": "https://xabikos.gallerycdn.vsassets.io/extensions/xabikos/javascriptsnippets/1.8.0/1587489699375/Microsoft.VisualStudio.Services.Icons.Default",
       "metrics": {
         "keywords-position": {
-          "documentLength": 4268,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [66, 134, 239, 431, 450, 518, 577, 1276, 1361, 1395]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 4269,
+        "length": 1,
         "links": [
           "visualstudio.com",
           "vsassets.io",
@@ -1543,7 +1723,10 @@
           "img": 11,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 40
       }
     },
@@ -1554,13 +1737,13 @@
       "image": "https://code.visualstudio.com/opengraphimg/opengraph-docs.png",
       "metrics": {
         "keywords-position": {
-          "documentLength": 27730,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [1409, 1560, 1584, 5093, 5247, 7543, 7985, 8055, 8322, 8555, 8824, 8979, 9022, 9123, 9190, 9322, 9395, 9522, 9806, 9972, 10014, 10196, 10272, 10299, 10361, 10467, 10594, 11393, 11688, 11762, 11992, 12599, 12911, 13120, 13158, 13568, 13926, 14217, 14413, 14568, 14885, 14967, 15088, 15209, 15307, 15548, 15671, 16439, 16516, 17570, 17988, 18013, 18061, 19209, 19456, 19898, 20119, 20235, 20834, 21164, 21322, 21454, 21612, 21690, 21855, 22077, 22101, 22429, 22569, 22855, 22896, 22925, 22969, 23129, 23638, 23722, 24007, 24062, 24520, 26241, 26298, 26558, 26683, 26724, 26910, 27050, 27113, 27145, 27242]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 27731,
+        "length": 1,
         "links": [
           "visualstudio.com",
           "github.copilot-chat",
@@ -1583,7 +1766,10 @@
           "img": 30,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 41
       }
     },
@@ -1594,13 +1780,13 @@
       "image": "http://www.w3schools.com/JS/images/img_javascript_syntax.png",
       "metrics": {
         "keywords-position": {
-          "documentLength": 16052,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [1322, 1339, 3393, 3404, 4470, 4481, 6770, 7424, 10327, 10363, 10399, 10442, 10575, 10597, 10745, 11002, 11091, 11332, 11353, 11452, 11569, 12025, 12045, 12452, 12480, 12779, 12826, 12984, 13225, 13285, 13318, 13508, 13569, 13780, 13982, 14109, 14134, 14332, 14800, 15000, 15205, 15408]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 16053,
+        "length": 1,
         "links": [
           "w3schools.com",
           "youtube.com",
@@ -1615,7 +1801,10 @@
           "img": 6,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 42
       }
     },
@@ -1626,13 +1815,13 @@
       "image": "https://m.media-amazon.com/images/I/41w+nN8Kg0L._BO30,255,255,255_UF900,850_SR1910,1000,0,C_ZA1%252C453,500,900,420,420,AmazonEmber,50,4,0,0_PIRIOFOURANDHALF-medium,BottomLeft,30,-20_QL100_.jpg",
       "metrics": {
         "keywords-position": {
-          "documentLength": 266204,
+          "documentLength": 0,
           "keywords": {
             "javascript": []
           }
         },
         "language": "english",
-        "length": 273791,
+        "length": 1,
         "links": [
           "amazon.com"
         ],
@@ -1655,28 +1844,50 @@
       "image": "https://cdn.sanity.io/images/2ejqxsnu/production/1055fe5732c7aded728c10d4448d4ae21fec3268-1200x760.png",
       "metrics": {
         "keywords-position": {
-          "documentLength": 930,
+          "documentLength": 0,
           "keywords": {
             "javascript": []
           }
         },
         "language": "english",
-        "length": 931,
+        "length": 1,
         "links": [
           "mux.com",
+          "sanity.io",
+          "x.com",
+          "laravel.com",
+          "wordpress.com",
+          "rd.com",
+          "github.com",
+          "jquery.com",
+          "apache.org",
+          "getbootstrap.com",
+          "wikipedia.org",
+          "nodejs.org",
+          "angular.dev",
+          "react.dev",
+          "twitter.com",
+          "reactforbeginners.com",
+          "stripe.com",
+          "cursor.com",
+          "mustache.github.io",
+          "rubyonrails.org",
+          "php.net",
+          "facebook.com",
           "demuxed.com",
           "howvideo.works",
-          "twitter.com",
           "linkedin.com",
-          "github.com",
           "youtube.com"
         ],
         "multimedia": {
           "video": 0,
-          "img": 0,
+          "img": 25,
           "audio": 0
         },
-        "perspicuity": 138,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 44
       }
     },
@@ -1687,13 +1898,13 @@
       "image": "https://www.htmhell.dev/images/og/advent23_2.png?s=171224",
       "metrics": {
         "keywords-position": {
-          "documentLength": 16938,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [82, 217, 2455, 8279, 11661, 12480, 12717, 12814, 15314, 16425, 16576]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 16939,
+        "length": 1,
         "links": [
           "htmhell.dev",
           "kilianvalkhof.com",
@@ -1711,7 +1922,10 @@
           "img": 0,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 45
       }
     },
@@ -1721,9 +1935,14 @@
       "snippet": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
       "image": "https://img-c.udemycdn.com/course/480x270/851712_fc61_6.jpg",
       "metrics": {
-        "keywords-position": -1,
+        "keywords-position": {
+          "documentLength": 0,
+          "keywords": {
+            "javascript": []
+          }
+        },
         "language": "english",
-        "length": -1,
+        "length": 1,
         "links": -1,
         "multimedia": -1,
         "perspicuity": {
@@ -1739,13 +1958,13 @@
       "snippet": "Allow JavaScript in Google Chrome · On your computer, open Chrome. · At the top right, click More options then Settings. · Click Privacy and security, then Site ...",
       "metrics": {
         "keywords-position": {
-          "documentLength": 3383,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [314, 501, 563, 736, 780, 921, 1056, 1089, 1185, 1233, 1327, 1494, 1574, 1659, 1733, 1795, 1863, 2315]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 3384,
+        "length": 1,
         "links": [
           "google.com",
           "google.cl",
@@ -1760,7 +1979,10 @@
           "img": 2,
           "audio": 0
         },
-        "perspicuity": 54,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 47
       }
     },
@@ -1771,13 +1993,13 @@
       "image": "https://developer.wordpress.org/wp-content/themes/wporg-developer-2023/images/opengraph-image.png",
       "metrics": {
         "keywords-position": {
-          "documentLength": 23477,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [355, 526, 561, 1308, 1490, 1767, 1792, 1848, 2756, 3120, 4578, 4726, 10203, 13725, 13846, 14698, 17202, 17416, 17520, 18796, 19380, 19482, 20581, 21179, 21900, 22294, 22462, 22521, 22802, 22882]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 23478,
+        "length": 1,
         "links": [
           "wordpress.org",
           "openverse.org",
@@ -1814,7 +2036,10 @@
           "img": 1,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 48
       }
     },
@@ -1825,13 +2050,13 @@
       "image": "https://developer.fastly.com/social-card/?title=JavaScript%20on%20the%20Compute%20platform",
       "metrics": {
         "keywords-position": {
-          "documentLength": 26343,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [1569, 1881, 2002, 2111, 2293, 2441, 2488, 2540, 2731, 2901, 2931, 3022, 3181, 3500, 5882, 5905, 6236, 7131, 7893, 8386, 9181, 10123, 11491, 12962, 13118, 13737, 14638, 14693, 15033, 15194, 15320, 15550, 16680, 16921, 17335, 17611, 18498, 19174, 19291, 19488, 20158, 22766, 24743, 25173]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 26344,
+        "length": 1,
         "links": [
           "fastly.com",
           "dev.to",
@@ -1855,7 +2080,10 @@
           "img": 4,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 49
       }
     },
@@ -1866,13 +2094,13 @@
       "image": "https://kotlinlang.org/assets/images/open-graph/docs.png",
       "metrics": {
         "keywords-position": {
-          "documentLength": 4343,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [22, 158, 370, 494, 875, 3037, 3590, 3808, 4106, 4192]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 4344,
+        "length": 1,
         "links": [
           "kotlinlang.org",
           "ecma-international.org",
@@ -1890,7 +2118,10 @@
           "img": 0,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 50
       }
     },
@@ -1900,13 +2131,13 @@
       "snippet": "This document serves as the complete definition of Google's coding standards for source code in the JavaScript programming language.",
       "metrics": {
         "keywords-position": {
-          "documentLength": 110951,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [7, 276, 311, 13797, 21289, 21380, 26973, 36796, 51890, 79999, 80025, 96740, 97040, 97195, 100529, 101464, 104512, 110182]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 110952,
+        "length": 1,
         "links": [
           "google.github.io",
           "ietf.org",
@@ -1921,7 +2152,10 @@
           "img": 0,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 51
       }
     },
@@ -1932,13 +2166,13 @@
       "image": "/images/icon-320.png",
       "metrics": {
         "keywords-position": {
-          "documentLength": 104,
+          "documentLength": 0,
           "keywords": {
             "javascript": []
           }
         },
         "language": "english",
-        "length": 105,
+        "length": 1,
         "links": [
           "devdocs.io",
           "github.com"
@@ -1948,7 +2182,10 @@
           "img": 0,
           "audio": 0
         },
-        "perspicuity": 184,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 52
       }
     },
@@ -1959,13 +2196,13 @@
       "image": "https://assets.exercism.org/meta/og.png",
       "metrics": {
         "keywords-position": {
-          "documentLength": 5082,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [865, 899, 978, 1006, 1067, 1173, 1213, 1302, 1767, 1816, 2599, 2627, 2690, 2766, 2822, 3007, 3138, 3163, 3390, 3432, 3502, 4516]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 5076,
+        "length": 1,
         "links": [
           "exercism.org",
           "github.com",
@@ -1981,7 +2218,10 @@
           "img": 62,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 53
       }
     },
@@ -1992,13 +2232,13 @@
       "image": "https://media.geeksforgeeks.org/wp-content/uploads/20241218123950915513/JavaScript-Frameworks-and-Libraries.webp",
       "metrics": {
         "keywords-position": {
-          "documentLength": 38787,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [1167, 1178, 1284, 1445, 1543, 1683, 1849, 1921, 1986, 2104, 2142, 2262, 2278, 2521, 2668, 2938, 2995, 3034, 3235, 3383, 3465, 3698, 4021, 4087, 4291, 4400, 4425, 4753, 4981, 5033, 5117, 5602, 5674, 5684, 5753, 6049, 6204, 6265, 6287, 6754, 7140, 7302, 7312, 7398, 7454, 7719, 7760, 7891, 7955, 7978, 8253, 8273, 8327, 8353, 8378, 8417, 8530, 8541, 8617, 8731, 8775, 8812, 8848, 8928, 8992, 9022, 9068, 9460, 9701, 9956, 10170, 10180, 10376, 10521, 10669, 10856, 11033, 11232, 11425, 11588, 11773, 11783, 11957, 12199, 12370, 12562, 12747, 12904, 13095, 13262, 13442, 13509, 13554, 14414, 14466, 14530, 14658, 14727, 14828, 14938, 15029, 15163, 15285, 15357, 15541, 15569, 15579, 15752, 15839, 16401, 16496, 16515, 16614, 16662, 16733, 16753, 16914, 17012, 17066, 17100, 17111, 17344, 17422, 17442, 17666, 17722, 17767, 17803, 17893, 17957, 17980, 18004, 18108, 18126, 18237, 18411, 18438, 18456, 18768, 18998, 19049, 19152, 19323, 19505, 19519, 19793, 19828, 19899, 20155, 20193, 20484, 20557, 20834, 20855, 20984, 21047, 21108, 21122, 21190, 21512, 21544, 21809, 21852, 21947, 21958, 22196, 22228, 22436, 22540, 22590, 22826, 22881, 22913, 23070, 23222, 23274, 23564, 23590, 23726, 23854, 23902, 23929, 24241, 24280, 24467, 24508, 24592, 24620, 24766, 24886, 24945, 24967, 25278, 25297, 25609, 25641, 25949, 25976, 26143, 26288, 26344, 26495, 26627, 26679, 26976, 27002, 27305, 27325, 27518, 27631, 27738, 27908, 27962, 27989, 28120, 28297, 28326, 28634, 28682, 28999, 29024, 29113, 29290, 29351, 29637, 29673, 29714, 30047, 30071, 30417, 30431, 30561, 30641, 30740, 30833, 30934, 31015, 31091, 31115, 31414, 31444, 31560, 31750, 31778, 31870, 31916, 31972, 32117, 32141, 32328, 32467, 32480, 32792, 32851, 33168, 33181, 33322, 33459, 33534, 33602, 33898, 33912, 34222, 34263, 34582, 34603, 34771, 34883, 34912, 34983, 35135, 35170, 35197, 35260, 35378, 35624, 35635, 35879, 35912, 35947, 35974, 37056]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 38788,
+        "length": 1,
         "links": [
           "geeksforgeeks.org",
           "page.link",
@@ -2013,7 +2253,10 @@
           "img": 10,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 54
       }
     },
@@ -2024,13 +2267,13 @@
       "image": "https://assets.vercel.com/image/upload/front/nextjs/twitter-card.png",
       "metrics": {
         "keywords-position": {
-          "documentLength": 6867,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [1564, 2004, 3486, 4820]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 6868,
+        "length": 1,
         "links": [
           "nextjs.org",
           "vercel.com",
@@ -2045,7 +2288,10 @@
           "img": 38,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 55
       }
     },
@@ -2056,13 +2302,13 @@
       "image": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png",
       "metrics": {
         "keywords-position": {
-          "documentLength": 5287,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [1677, 1928, 2055, 2081, 2102, 2393, 2481, 2526, 2604, 2722, 2843, 3005, 3448, 3531, 3543, 3757, 4552]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 5288,
+        "length": 1,
         "links": [
           "amazon.com",
           "repost.aws",
@@ -2086,7 +2332,10 @@
           "img": 8,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 56
       }
     },
@@ -2097,13 +2346,13 @@
       "image": "https://docs.github.com/assets/cb-345/images/social-cards/actions.png",
       "metrics": {
         "keywords-position": {
-          "documentLength": 19102,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [126, 1340, 5048, 5076, 5136, 5428, 5454, 5590, 6045, 6105, 6213, 6254, 6297, 6978, 7224, 7257, 7478, 8267, 8406, 9875, 11465, 11820, 12118, 12234, 12532, 12932, 15633, 15994, 16373, 16669, 18260, 18330, 18506, 18590, 18653]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 19103,
+        "length": 1,
         "links": [
           "github.com",
           "nodejs.org",
@@ -2115,7 +2364,10 @@
           "img": 0,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 57
       }
     },
@@ -2126,13 +2378,13 @@
       "image": "https://d36j3rcgc2qfsv.cloudfront.net/docslibrariesjs.jpeg",
       "metrics": {
         "keywords-position": {
-          "documentLength": 14804,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [339, 2888, 3381, 3440, 4195, 7946, 12914]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 14805,
+        "length": 1,
         "links": [
           "posthog.com",
           "github.com",
@@ -2147,7 +2399,10 @@
           "img": 12,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 58
       }
     },
@@ -2157,13 +2412,13 @@
       "snippet": "Mar 21, 2024 ... Here is a summary of common optimization techniques I've found useful. Note that the tradeoff for performance is often readability.",
       "metrics": {
         "keywords-position": {
-          "documentLength": 31529,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [65, 116, 1915, 2059, 2315, 3675, 3847, 4138, 11234, 12735, 17224, 18949, 22661]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 31530,
+        "length": 1,
         "links": [
           "romgrk.com",
           "github.com",
@@ -2182,7 +2437,10 @@
           "img": 0,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 59
       }
     },
@@ -2193,13 +2451,13 @@
       "image": "https://www.datocms-assets.com/48401/1628645738-ogvanillajs.png?auto=format&fit=max&w=1200",
       "metrics": {
         "keywords-position": {
-          "documentLength": 13085,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [506, 1053, 1336, 1769, 2193, 2607, 2653, 2831, 2946, 3141, 3240, 3392, 3640, 3808, 3875, 3989, 4714, 5014, 6397, 7366, 7409, 7526, 7921, 8215, 8752, 8825, 9185, 9569, 10075, 10116, 10172, 10214, 10285, 11853, 12011]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 13086,
+        "length": 1,
         "links": [
           "snipcart.com",
           "nodejs.org",
@@ -2226,7 +2484,10 @@
           "img": 12,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 60
       }
     },
@@ -2237,13 +2498,13 @@
       "image": "https://v1.screenshot.11ty.dev/https%3A%2F%2Fwww.11ty.dev%2Fdocs%2Flanguages%2Fjavascript%2F%3Fcache%3D1/opengraph/",
       "metrics": {
         "keywords-position": {
-          "documentLength": 13726,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [319, 948, 1044, 1962, 2031, 2311, 2321, 2363, 2676, 2763, 2921, 5087, 6987, 7617, 7645, 8182, 8345, 8377, 8432, 8551, 8674, 8800, 9092, 9155, 9377, 9514, 10072, 10586, 12170, 12410, 12694, 12958, 13043, 13229]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 13727,
+        "length": 1,
         "links": [
           "11ty.dev",
           "github.com",
@@ -2279,7 +2540,10 @@
           "img": 17,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 61
       }
     },
@@ -2289,13 +2553,13 @@
       "snippet": "JavaScript is the world's most misunderstood programming language. Some argue that JavaScript is not truly object oriented because it does not provide ...",
       "metrics": {
         "keywords-position": {
-          "documentLength": 6434,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [0, 100, 290, 348, 476, 669, 875, 937, 973, 1198, 1266, 1575, 1661, 1824, 2107, 2282, 2340, 2451, 2972, 3761, 3954, 4156, 4204, 4809, 4903, 5012, 5174, 5654, 5750, 5952, 6092, 6175, 6278]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": -1,
+        "length": 1,
         "links": [
           "crockford.com",
           "amazon.com",
@@ -2307,7 +2571,10 @@
           "img": 0,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 62
       }
     },
@@ -2318,13 +2585,13 @@
       "image": "https://weaviate.io/og/docs/client-libraries.jpg",
       "metrics": {
         "keywords-position": {
-          "documentLength": 5182,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [811, 1575, 1814, 1851, 1945, 2532, 2560, 2639, 3007, 4212]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 5183,
+        "length": 1,
         "links": [
           "weaviate.io",
           "scarf.sh",
@@ -2341,7 +2608,10 @@
           "img": 4,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 63
       }
     },
@@ -2351,13 +2621,13 @@
       "snippet": "JavaScript Client API Reference Slack. Initialize MinIO Client object. MinIO. import * as Minio from 'minio' const minioClient = new Minio.Client({ endPoint ...",
       "metrics": {
         "keywords-position": {
-          "documentLength": 47925,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [3119, 3147, 3421, 25011, 26218, 26828, 28997, 43456]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 47926,
+        "length": 1,
         "links": [
           "min.io",
           "github.com",
@@ -2370,7 +2640,10 @@
           "img": 22,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 64
       }
     },
@@ -2381,13 +2654,13 @@
       "image": "https://learn.microsoft.com/en-us/media/open-graph-image.png",
       "metrics": {
         "keywords-position": {
-          "documentLength": 40066,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [629, 750, 883, 1003, 1065, 1102, 1657, 1755, 1783, 1837, 1859, 1932, 2011, 2035, 2275, 2321, 2365, 2467, 2633, 2745, 2774, 2859, 3194, 3306, 3564, 3689, 3828, 4353, 4940, 5040, 5495, 5941, 6076, 6190, 6257, 6474, 6725, 7245, 7387, 7666, 9082, 9256, 9480, 10081, 11396, 11467, 11547, 12204, 15080, 15233, 15410, 15551, 16303, 16555, 17323, 17500, 17856, 18271, 18481, 18535, 18842, 18886, 18980, 18995, 19287, 19370, 19769, 19792, 20556, 21507, 21734, 21811, 21870, 21945, 21998, 22035, 22085, 22215, 22455, 22503, 22691, 22851, 22970, 23057, 23388, 24279, 25136, 25625, 25674, 25866, 26563, 26993, 28026, 28618, 28759, 28911, 29007, 30245, 30401, 30450, 30483, 30596, 32681, 35664, 38422, 39095, 39147, 39396, 39435, 39490, 39531, 39577, 39629, 39700, 39754]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 40067,
+        "length": 1,
         "links": [
           "microsoft.com",
           "github.com",
@@ -2399,7 +2672,10 @@
           "img": 0,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 65
       }
     },
@@ -2410,13 +2686,13 @@
       "image": "https://www.pce.uw.edu/uwcontinuingeducation/media/pce/certificate%20programs/hero%20images/javascript-2000x600.jpg",
       "metrics": {
         "keywords-position": {
-          "documentLength": 13509,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [1250, 1332, 1399, 1453, 1791, 2030, 2558, 3024, 4215, 4389, 4582, 5865, 5925, 5984, 6038, 6599, 7983, 8082, 8253, 8424, 8798, 8970, 9141, 11609, 11743, 12405]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 13510,
+        "length": 1,
         "links": [
           "uw.edu",
           "washington.edu",
@@ -2432,7 +2708,10 @@
           "img": 3,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 66
       }
     },
@@ -2443,13 +2722,13 @@
       "image": "https://learn.microsoft.com/en-us/media/open-graph-image.png",
       "metrics": {
         "keywords-position": {
-          "documentLength": 1491,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [647, 824]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 1492,
+        "length": 1,
         "links": [
           "microsoft.com",
           "github.com",
@@ -2462,7 +2741,10 @@
           "img": 1,
           "audio": 0
         },
-        "perspicuity": 119,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 67
       }
     },
@@ -2472,13 +2754,13 @@
       "snippet": "Ext JS is an enterprise-ready JavaScript framework with a comprehensive component library. Our 140+ pre-built components include grids, pivot grids, exporters, ...",
       "metrics": {
         "keywords-position": {
-          "documentLength": 14774,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [131, 996, 1033, 4677, 6893, 7935, 8369]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 14775,
+        "length": 1,
         "links": [
           "sencha.com",
           "youtube.com",
@@ -2498,7 +2780,10 @@
           "img": 41,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 68
       }
     },
@@ -2508,13 +2793,13 @@
       "snippet": "Here you can find instructions on how to enable (activate) JavaScript in five most commonly used browsers.",
       "metrics": {
         "keywords-position": {
-          "documentLength": 4984,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [14, 213, 278, 583, 1151, 1206, 1563, 1594, 2030, 2270, 3145, 3340, 3393, 3438, 3496, 3780, 4845, 4899, 4923, 4970]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 4985,
+        "length": 1,
         "links": [
           "enable-javascript.com",
           "staticflickr.com",
@@ -2541,7 +2826,10 @@
           "img": 27,
           "audio": 0
         },
-        "perspicuity": 2,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 69
       }
     },
@@ -2551,13 +2839,13 @@
       "snippet": "Sep 20, 2024 ... Test your installation# Found an issue? · If you haven't already, create an Algolia account. · Copy the following code into a new file ...",
       "metrics": {
         "keywords-position": {
-          "documentLength": 4672,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [657, 1208, 1495, 1519, 1578, 3070, 4491, 4517, 4621, 4647]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 4673,
+        "length": 1,
         "links": [
           "algolia.com",
           "github.com"
@@ -2567,8 +2855,40 @@
           "img": 1,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 70
+      }
+    },
+    {
+      "title": "JavaScript API clients | JavaScript | Algolia",
+      "link": "https://www.algolia.com/doc/libraries/javascript/v5/",
+      "snippet": "Sep 20, 2024 ... Test your installation# Found an issue? · If you haven't already, create an Algolia account. · Copy the following code into a new file ...",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 0,
+          "keywords": {
+            "javascript": []
+          }
+        },
+        "language": "english",
+        "length": 1,
+        "links": [
+          "algolia.com",
+          "github.com"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 1,
+          "audio": 0
+        },
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
+        "ranking": 71
       }
     },
     {
@@ -2578,13 +2898,13 @@
       "image": "https://lh3.googleusercontent.com/1TSw8ZPwr2VvUZlY1cbAPOWo5cisrfpazmTpfGH4YWGTLCJLUq23LMSKuS5ee-bBP5C0GL8wsbpV9iQ9zLEQ6Dv8Vw=s128-rj-sc0x00ffffff",
       "metrics": {
         "keywords-position": {
-          "documentLength": 5704,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [126, 228, 323, 3685, 4873, 5025, 5203, 5418, 5588]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 5705,
+        "length": 1,
         "links": [
           "google.com",
           "gstatic.com",
@@ -2597,8 +2917,11 @@
           "img": 14,
           "audio": 0
         },
-        "perspicuity": 0,
-        "ranking": 71
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
+        "ranking": 72
       }
     },
     {
@@ -2626,7 +2949,7 @@
           "code": -1,
           "message": "Error getting text."
         },
-        "ranking": 72
+        "ranking": 73
       }
     },
     {
@@ -2636,13 +2959,13 @@
       "image": "https://pll.harvard.edu/sites/default/files/styles/social_share/public/course/CS50W_pll.png?itok=-FKYXfbp",
       "metrics": {
         "keywords-position": {
-          "documentLength": 2703,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [362, 496, 940, 1095]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 2704,
+        "length": 1,
         "links": [
           "harvard.edu",
           "edx.org"
@@ -2652,8 +2975,11 @@
           "img": 13,
           "audio": 0
         },
-        "perspicuity": 23,
-        "ranking": 73
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
+        "ranking": 74
       }
     },
     {
@@ -2662,13 +2988,13 @@
       "snippet": "Join the OpenJS Foundation. The OpenJS Foundation is the central place to support collaborative development of JavaScript and web technologies. Interested in ...",
       "metrics": {
         "keywords-position": {
-          "documentLength": 2596,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [249, 488, 1730]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 2597,
+        "length": 1,
         "links": [
           "openjsf.org",
           "linuxfoundation.org",
@@ -2685,8 +3011,11 @@
           "img": 21,
           "audio": 0
         },
-        "perspicuity": 32,
-        "ranking": 74
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
+        "ranking": 75
       }
     },
     {
@@ -2696,13 +3025,13 @@
       "image": "https://0xda.de/img/cover.png",
       "metrics": {
         "keywords-position": {
-          "documentLength": 5330,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [225, 244, 261, 284, 497, 518, 703, 791, 1005, 1078, 1134, 1219, 1300, 1467, 1528, 1650, 1817, 1840, 1937, 1975, 2136, 2397, 2547, 3150, 3299, 3609, 4248, 4593, 4648, 4852]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 5331,
+        "length": 1,
         "links": [
           "0xda.de",
           "room641a.com",
@@ -2714,8 +3043,11 @@
           "img": 3,
           "audio": 0
         },
-        "perspicuity": 6,
-        "ranking": 75
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
+        "ranking": 76
       }
     },
     {
@@ -2725,13 +3057,13 @@
       "image": "https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png",
       "metrics": {
         "keywords-position": {
-          "documentLength": 35410,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [11800, 12311, 13154, 13375, 13461, 13541, 13989, 14337, 14504, 14833, 14870, 14923, 15021, 15398, 15445, 15519, 15553, 15870, 16814, 17019, 17197, 17998, 18295, 18663, 18788, 18857, 18908, 19096, 19304, 19345, 19446, 19561, 19708, 19723, 19944, 20030, 20066, 20203, 20243, 20282, 20744, 20801, 20969, 21285, 21361, 21447, 21475, 21813, 21872, 21948, 21961, 21985, 22002, 22352, 22394, 23874, 23937, 24152, 24199, 24286, 24574, 24772, 25118, 25522, 25569, 25845, 25915, 26147, 26751, 26873, 27740, 27908, 28051, 28343, 28391, 28552, 28777, 29355, 29396, 29594, 29666, 29727, 29797, 30215, 30384, 30678, 30739, 30807, 31606, 31711, 31722, 32011, 32134, 32210, 32369, 32380, 32564, 32712, 33535, 33588, 33935, 34191, 34225, 34320]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 35411,
+        "length": 1,
         "links": [
           "google.com",
           "gstatic.com",
@@ -2747,8 +3079,11 @@
           "img": 5,
           "audio": 0
         },
-        "perspicuity": 0,
-        "ranking": 76
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
+        "ranking": 77
       }
     },
     {
@@ -2757,16 +3092,40 @@
       "snippet": "The Progressive JavaScript Framework. An approachable, performant and versatile framework for building web user interfaces.",
       "image": "https://vuejs.org/images/logo.png",
       "metrics": {
-        "keywords-position": -1,
+        "keywords-position": {
+          "documentLength": 0,
+          "keywords": {
+            "javascript": []
+          }
+        },
         "language": "english",
-        "length": -1,
-        "links": -1,
-        "multimedia": -1,
+        "length": 1,
+        "links": [
+          "vuejs.org",
+          "vueconf.us",
+          "vercel.app",
+          "certificates.dev",
+          "vuejobs.com",
+          "threadless.com",
+          "vuemastery.com",
+          "vueschool.io",
+          "discord.com",
+          "github.com",
+          "dev.to",
+          "twitter.com",
+          "youtube.com",
+          "opensource.org"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 1,
+          "audio": 0
+        },
         "perspicuity": {
           "code": -1,
           "message": "Error getting text."
         },
-        "ranking": 77
+        "ranking": 78
       }
     },
     {
@@ -2776,13 +3135,13 @@
       "image": "https://a.sfdcstatic.com/enterprise/tableau/prod/2024012/v1/oneTrust/consent/2d08f29e-0ede-4e8c-997c-f7ef5be8d4e7/a0997734-d1cf-4eaf-9ad9-454407313aab/logos/ddb906c9-f57b-40fc-85a1-c8bcbc371b0d/6a33a761-886e-4860-8e17-abc0832f7a62/corporate_logo_big.png",
       "metrics": {
         "keywords-position": {
-          "documentLength": 2467,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [8, 35, 84, 132, 359, 679, 988, 1124, 1514, 1552, 1614, 1722, 1907]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 2468,
+        "length": 1,
         "links": [
           "tableau.com",
           "salesforce.com"
@@ -2792,8 +3151,11 @@
           "img": 1,
           "audio": 0
         },
-        "perspicuity": 67,
-        "ranking": 78
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
+        "ranking": 79
       }
     },
     {
@@ -2803,13 +3165,13 @@
       "image": "https://grafana.com/media/images/meta/grafana-labs-meta-default_1200x630.png",
       "metrics": {
         "keywords-position": {
-          "documentLength": 40729,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [11088, 12364, 23911, 24811, 24840, 26917, 33922, 37928]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 40730,
+        "length": 1,
         "links": [
           "grafana.com",
           "github.com",
@@ -2832,38 +3194,10 @@
           "img": 120,
           "audio": 0
         },
-        "perspicuity": 0,
-        "ranking": 79
-      }
-    },
-    {
-      "title": "API Reference | Firebase JavaScript API reference",
-      "link": "https://firebase.google.com/docs/reference/js",
-      "snippet": "The Firebase JavaScript SDK implements the client-side libraries for applications using Firebase services.",
-      "metrics": {
-        "keywords-position": {
-          "documentLength": 112189,
-          "keywords": {
-            "javascript": [873, 71640, 76427, 109744]
-          }
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
         },
-        "language": "english",
-        "length": 112190,
-        "links": [
-          "google.com",
-          "gstatic.com",
-          "pub.dev",
-          "godoc.org",
-          "io.google",
-          "creativecommons.org",
-          "apache.org"
-        ],
-        "multimedia": {
-          "video": 0,
-          "img": 3,
-          "audio": 0
-        },
-        "perspicuity": 0,
         "ranking": 80
       }
     },
@@ -2874,13 +3208,13 @@
       "image": "https://web.dev/learn/javascript/card.png",
       "metrics": {
         "keywords-position": {
-          "documentLength": 6556,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [95, 270, 638, 750, 810, 905, 1179, 1283, 1330, 1380, 1482, 1536, 1620, 1809, 1926, 2062, 2199, 2354, 2502, 2638, 2776, 3043, 3195, 3337, 3981, 4268, 4459, 4920, 5590]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 6557,
+        "length": 1,
         "links": [
           "web.dev",
           "gstatic.com",
@@ -2897,7 +3231,10 @@
           "img": 2,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 81
       }
     },
@@ -2907,13 +3244,13 @@
       "snippet": "Jun 23, 2020 ... JavaScript (JS) is a platform-independent scripting language (compiled just-in-time at runtime) commonly associated with scripts in webpages.",
       "metrics": {
         "keywords-position": {
-          "documentLength": 21920,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [488, 534, 762, 940, 966, 1453, 1524, 2168, 2832, 2897, 2991, 3204, 3270, 3439, 3584, 3729, 3862, 3949, 4067, 4180, 4298, 4414, 4495, 4581, 4769, 4868, 4911, 5016, 5115, 5288, 5454, 5613, 5669, 5754, 5891, 5971, 6047, 6216, 6309, 6540, 6657, 6752, 7004, 7134, 7292, 7391, 7477, 7678, 7736, 7802, 7886, 7971, 8033, 8169, 8300, 8420, 8537, 8732, 9077, 10859]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 21921,
+        "length": 1,
         "links": [
           "mitre.org",
           "medium.com",
@@ -2972,7 +3309,10 @@
           "img": 3,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 82
       }
     },
@@ -3012,13 +3352,13 @@
       "image": "https://ai.google.dev/static/site-assets/images/quickstart.png",
       "metrics": {
         "keywords-position": {
-          "documentLength": 4404,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [2994]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 4405,
+        "length": 1,
         "links": [
           "google.dev",
           "gstatic.com",
@@ -3041,7 +3381,10 @@
           "img": 2,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 84
       }
     },
@@ -3051,13 +3394,13 @@
       "snippet": "TypeScript is JavaScript with syntax for types. TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any ...",
       "metrics": {
         "keywords-position": {
-          "documentLength": 4722,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [93, 193, 961, 1017, 1163, 1195, 1303, 1526, 1647, 1826, 1872, 2113, 2452, 3062, 3533, 3934]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 4723,
+        "length": 1,
         "links": [
           "typescriptlang.org",
           "slack.engineering",
@@ -3082,7 +3425,10 @@
           "img": 3,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 85
       }
     },
@@ -3093,13 +3439,13 @@
       "image": "https://generalassemb.ly/_next/image?url=https%3A%2F%2Fgeneralassembly.bynder.com%2Ftransform%2F51eb47dc-1f06-4c9e-b380-b1108e4baace%2FAdobeStock_691125269&w=1440&q=75",
       "metrics": {
         "keywords-position": {
-          "documentLength": 12085,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [751, 1074, 1926, 2015, 2079, 2176, 3162, 3181, 3270, 3393, 3455, 3583, 3692, 3716, 3909, 4018, 5459, 5598, 6020, 6061, 6085, 6242, 6356, 6556, 6639, 6698, 6957, 7175, 7209, 7500, 7866, 8063, 8141, 8686, 9211, 9640, 9891, 10779]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 12086,
+        "length": 1,
         "links": [
           "generalassemb.ly",
           "climbcredit.com",
@@ -3119,7 +3465,10 @@
           "img": 8,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 86
       }
     },
@@ -3130,13 +3479,13 @@
       "image": "https://images.plot.ly/plotly-documentation/thumbnail/fluid-layout.gif",
       "metrics": {
         "keywords-position": {
-          "documentLength": 6159,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [19, 63, 419]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 6160,
+        "length": 1,
         "links": [
           "plotly.com",
           "ghbtns.com",
@@ -3152,7 +3501,10 @@
           "img": 61,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 87
       }
     },
@@ -3162,13 +3514,13 @@
       "snippet": "Samples · In Edge UI, open the proxy that you created in the proxy editor. · Select the Develop tab. · From the New menu, select New Script. · In the dialog, ...",
       "metrics": {
         "keywords-position": {
-          "documentLength": 24278,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [1112, 1646, 3887, 4023, 4109, 4194, 4430, 4776, 4943, 5274, 5311, 5364, 5462, 5839, 5886, 6029, 6126, 7070, 7275, 7451, 8250, 8547, 8915, 9040, 9109, 9162, 9350, 9558, 9599, 9700, 9815, 9962, 9977, 10198, 10284, 10320, 10457, 10497, 10536, 10998, 11282, 11358, 11444, 11472, 11810, 11869, 11945, 11958, 11982, 11999, 12349, 12391, 13748, 13811, 14026, 14073, 14160, 14444, 14642, 14988, 15388, 15435, 15711, 15781, 16013, 16617, 16739, 17233, 17287, 17318, 17387, 17958, 18126, 18269, 18561, 18610, 18772, 19002, 19647, 19688, 19886, 19958, 20019, 20089, 20502, 20671, 20965, 21026, 21094, 21893, 21998, 22009, 22298, 22421, 22497, 22656, 22667, 22851, 22913, 22966, 23102]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 24279,
+        "length": 1,
         "links": [
           "apigee.com",
           "gstatic.com",
@@ -3183,7 +3535,10 @@
           "img": 5,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 88
       }
     },
@@ -3194,13 +3549,13 @@
       "image": "https://developer.here.com/sites/g/files/odxslz211/files/2019-09/DevPortalOpenGraphShareImage.jpg",
       "metrics": {
         "keywords-position": {
-          "documentLength": 6586,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [1462, 1754, 2110, 5454]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 6587,
+        "length": 1,
         "links": [
           "here.com",
           "vercel.app",
@@ -3217,7 +3572,10 @@
           "img": 15,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 89
       }
     },
@@ -3228,13 +3586,13 @@
       "image": "https://cdn.thenewstack.io/media/2018/08/f6d29249-brendan-eich.jpg",
       "metrics": {
         "keywords-position": {
-          "documentLength": 36041,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [6299, 6460, 7051, 13987, 16234, 16719, 21020, 22957, 23794, 24657, 24737, 24960, 25079, 25366, 26464, 29729, 30439, 30569, 30721, 30985, 31070, 31115, 31423, 32120, 32741, 32795, 33850]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 36042,
+        "length": 1,
         "links": [
           "thenewstack.io",
           "hachyderm.io",
@@ -3264,8 +3622,61 @@
           "img": 4,
           "audio": 0
         },
-        "perspicuity": 0,
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
         "ranking": 90
+      }
+    },
+    {
+      "title": "Brendan Eich on Creating JavaScript in 10 Days, and What He'd Do ...",
+      "link": "https://thenewstack.io/brendan-eich-on-creating-javascript-in-10-days-and-what-hed-do-differently-today/",
+      "snippet": "Aug 26, 2018 ... 34-year-old Brendan Eich created that first version of the language that would become JavaScript in just 10 days.",
+      "image": "https://cdn.thenewstack.io/media/2018/08/f6d29249-brendan-eich.jpg",
+      "metrics": {
+        "keywords-position": {
+          "documentLength": 0,
+          "keywords": {
+            "javascript": []
+          }
+        },
+        "language": "english",
+        "length": 1,
+        "links": [
+          "thenewstack.io",
+          "hachyderm.io",
+          "bsky.app",
+          "threads.net",
+          "linkedin.com",
+          "twitter.com",
+          "facebook.com",
+          "spotify.com",
+          "youtube.com",
+          "brendaneich.com",
+          "computer.org",
+          "infoworld.com",
+          "codersatwork.com",
+          "mozilla.org",
+          "brave.com",
+          "yahoo.com",
+          "technologyreview.com",
+          "fortune.com",
+          "digitalcontentnext.org",
+          "ycombinator.com",
+          "reddit.com",
+          "roadmap.sh"
+        ],
+        "multimedia": {
+          "video": 0,
+          "img": 4,
+          "audio": 0
+        },
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
+        "ranking": 91
       }
     },
     {
@@ -3275,13 +3686,13 @@
       "image": "https://www.destroyallsoftware.com/assets/posters/talks/the-birth-and-death-of-javascript.poster-1ba16f04a5f465924efa59e8d8c223d90c529fd79151503ff52e38cf2ca8d6d1.png",
       "metrics": {
         "keywords-position": {
-          "documentLength": 1023,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [188, 318, 402, 736]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 1024,
+        "length": 1,
         "links": [
           "destroyallsoftware.com",
           "destroyallsoftware-talks.s3.amazonaws.com",
@@ -3292,8 +3703,11 @@
           "img": 1,
           "audio": 0
         },
-        "perspicuity": 127,
-        "ranking": 91
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
+        "ranking": 92
       }
     },
     {
@@ -3303,13 +3717,13 @@
       "image": "https://wp-assets.highcharts.com/www-highcharts-com/blog/wp-content/uploads/2022/03/16111553/brand-banner.png",
       "metrics": {
         "keywords-position": {
-          "documentLength": 7590,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [840, 2548, 4548, 5926]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 7591,
+        "length": 1,
         "links": [
           "highcharts.com",
           "figma.com",
@@ -3330,8 +3744,11 @@
           "img": 55,
           "audio": 0
         },
-        "perspicuity": 0,
-        "ranking": 92
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
+        "ranking": 93
       }
     },
     {
@@ -3341,13 +3758,13 @@
       "image": "https://cfl.dropboxstatic.com/static/metaserver/static/images/logo_catalog/dropbox_opengraph_image%402x.png",
       "metrics": {
         "keywords-position": {
-          "documentLength": 2461,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [12, 81, 103, 181, 214, 235, 295, 338, 418, 837, 887, 968, 2176, 2239]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 2462,
+        "length": 1,
         "links": [
           "dropbox.com",
           "github.com",
@@ -3362,8 +3779,11 @@
           "img": 1,
           "audio": 0
         },
-        "perspicuity": 59,
-        "ranking": 93
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
+        "ranking": 94
       }
     },
     {
@@ -3392,7 +3812,7 @@
           "code": -1,
           "message": "Error getting text."
         },
-        "ranking": 94
+        "ranking": 95
       }
     },
     {
@@ -3401,13 +3821,13 @@
       "snippet": "Selenium is a browser automation library. Most often used for testing web-applications, Selenium may be used for any task that requires automating interaction ...",
       "metrics": {
         "keywords-position": {
-          "documentLength": 16204,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [19, 1133, 1148, 11805, 12928, 12943]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 16205,
+        "length": 1,
         "links": [
           "selenium.dev",
           "github.com",
@@ -3425,8 +3845,11 @@
           "img": 0,
           "audio": 0
         },
-        "perspicuity": 0,
-        "ranking": 95
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
+        "ranking": 96
       }
     },
     {
@@ -3434,16 +3857,21 @@
       "link": "https://docs.aws.amazon.com/appsync/latest/devguide/resolver-reference-overview-js.html",
       "snippet": "AWS AppSync JavaScript resolvers overview ... AWS AppSync lets you respond to GraphQL requests by performing operations on your data sources. For each GraphQL ...",
       "metrics": {
-        "keywords-position": -1,
+        "keywords-position": {
+          "documentLength": 0,
+          "keywords": {
+            "javascript": []
+          }
+        },
         "language": "english",
-        "length": -1,
+        "length": 1,
         "links": -1,
         "multimedia": -1,
         "perspicuity": {
           "code": -1,
           "message": "Error getting text."
         },
-        "ranking": 96
+        "ranking": 97
       }
     },
     {
@@ -3453,13 +3881,13 @@
       "image": "https://i.ytimg.com/vi/QK4hKWmJVLo/maxresdefault.jpg",
       "metrics": {
         "keywords-position": {
-          "documentLength": 3208,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [1735, 1802, 1827, 1875]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 3209,
+        "length": 1,
         "links": [
           "mozilla.org",
           "youtube.com",
@@ -3472,8 +3900,11 @@
           "img": 1,
           "audio": 0
         },
-        "perspicuity": 0,
-        "ranking": 97
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
+        "ranking": 98
       }
     },
     {
@@ -3483,13 +3914,13 @@
       "image": "https://www.qualtrics.com/m/assets/support/wp-content/uploads/2017/10/JavaScript2.png",
       "metrics": {
         "keywords-position": {
-          "documentLength": 140288,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [6183, 24111, 29257, 33619, 37721, 70651, 88579, 93725, 98087, 102189, 129270, 129942, 129953, 130232, 130320, 130402, 130563, 130618, 130674, 130697, 130760, 131087, 131173, 131342, 131403, 131447, 131526, 132306, 132453, 132641, 132729, 132784, 132867, 133127, 133177, 135296]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 140289,
+        "length": 1,
         "links": [
           "qualtrics.com",
           "google.com",
@@ -3504,8 +3935,11 @@
           "img": 16,
           "audio": 0
         },
-        "perspicuity": 0,
-        "ranking": 98
+        "perspicuity": {
+          "code": -1,
+          "message": "Error getting text."
+        },
+        "ranking": 99
       }
     },
     {
@@ -3515,13 +3949,13 @@
       "image": "https://static.ietf.org/dt/12.39.2/ietf/images/ietf-logo-card.png",
       "metrics": {
         "keywords-position": {
-          "documentLength": 25501,
+          "documentLength": 0,
           "keywords": {
-            "javascript": [53, 987, 1054, 5189, 5324, 6150, 6244, 18719, 19418, 19506, 19719, 22985, 23137]
+            "javascript": []
           }
         },
         "language": "english",
-        "length": 25502,
+        "length": 1,
         "links": [
           "ietf.org",
           "rfc-editor.org",
@@ -3534,21 +3968,6 @@
           "img": 4,
           "audio": 0
         },
-        "perspicuity": 0,
-        "ranking": 99
-      }
-    },
-    {
-      "title": "JavaScript | The Odin Project",
-      "link": "https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript",
-      "snippet": "Make your websites dynamic and interactive with JavaScript! You'll create features and stand-alone applications. This module includes projects where you will ...",
-      "image": "https://www.theodinproject.com/assets/og-logo-2bdf3a30.png",
-      "metrics": {
-        "keywords-position": -1,
-        "language": "english",
-        "length": -1,
-        "links": -1,
-        "multimedia": -1,
         "perspicuity": {
           "code": -1,
           "message": "Error getting text."
