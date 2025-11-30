@@ -26,5 +26,5 @@ npm run start
 Now you can point your browser to
 
 ```
-http://localhost:3000/
+http://localhost:5174/
 ```
