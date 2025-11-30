@@ -9,7 +9,7 @@
     "three": "^0.178.0"
   },
   "scripts": {
-    "start": "parcel serve public/index.html --port 3000"
+    "start": "parcel serve index.html --port 3000"
 },
   "devDependencies": {
     "parcel": "^2.15.4"
