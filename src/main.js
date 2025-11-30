@@ -1,6 +1,6 @@
 "use strict";
 
-import chart from "../visualization/bubble.js";
+import chart from "./visualization/bubble.js";
 import data10 from './response/data10.json';
 import data50 from './response/data50.json';
 import data100 from './response/data100.json';

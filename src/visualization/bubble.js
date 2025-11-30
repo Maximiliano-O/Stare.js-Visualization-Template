@@ -106,4 +106,4 @@ function chart(querySelector, data, opts) {
     .text(d => `${get(d.data, finalOptions.labelField, "")}${format(get(d.data, finalOptions.valueField))}`);
 }
 
-module.exports = exports = chart;
+export default chart;

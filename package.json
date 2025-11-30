@@ -9,9 +9,9 @@
     "three": "^0.178.0"
   },
   "scripts": {
-    "start": "parcel serve index.html --port 3000"
-},
+    "start": "vite"
+  },
   "devDependencies": {
-    "parcel": "^2.15.4"
+    "vite": "^6.0.3"
   }
 }
