@@ -9,27 +9,143 @@
 </head>
 <body>
   <div class="container">
+    <select id="langSelect">
+      <option value="en">EN</option>
+      <option value="es">ES</option>
+    </select>
+    <div class="preamble" id="preamble"></div>
+  </div>
+  <div class="container">
+    <div class="step-number">
+      1
+    </div>
+    <span id="label-step1"></span>
+    <select id="query">
+      <option value="javascript">Javascript</option>
+    </select>
+  </div>
+  <div class="container">
+    <div class="step-number">
+      2
+    </div>
+    <span id="label-step2"></span>
+    <select id="dataset">
+      <option value="data10">10</option>
+      <option value="data50">50</option>
+      <option value="data100">100</option>
+    </select>
+    <span id="label-step2.5"></span>
+  </div>
+  <div class="container">
+    <div class="step-number">
+      3
+    </div>
     <div>
-      <span>Visualization:</span>
+      <span id="label-step3"></span>
 
-      <!-- Change the name of the visualization here -->
-      <span>D3 Bubble example</span> 
-
-      <select id="dataset">
-        <option value="data10">Documents: 10</option>
-        <option value="data50">Documents: 50</option>
-        <option value="data100">Documents: 100</option>
+      <select id="engine">
+        <option value="d3">D3</option>
+        <option value="three">Three.js</option>
       </select>
+
+      <span id="label-step3.1"></span>
+
+      <select id="chart">
+        <option value="bubble">Bubble</option>
+        <option value="network">Network</option>
+        <option value="treemap">Treemap</option>
+        <option value="verticalNetwork">Vertical Network</option>
+      </select>
+
+      <span id="label-step3.2"></span>
 
       <button id="visualizeBtn">
         Visualize
       </button>
     </div>
-
-    <div id="canvas">
-
     </div>
   </div>
+
+  <div id="canvas"></div>
+
+  <script>
+    const texts = {
+      en: {
+        preamble: "Let's see a simple example about how StArE.js renders a visualization:",
+        steps: [
+          "A query is made to a search engine, in this case:",
+          "Then we get the results, in this case we use:",
+          "documents",
+          "Finally the visualization is rendered using",
+          "as visual library",
+          "as visualization",
+        ]
+      },
+      es: {
+        preamble: "Veamos un ejemplo simple de cómo StArE.js renderiza una visualización:",
+        steps: [
+          "Se realiza una consulta a un motor de búsqueda, en este caso:",
+          "Luego obtenemos los resultados, en este caso usamos:",
+          "documentos",
+          "Finalmente se renderiza la visualización usando",
+          "como biblioteca gráfica y",
+          "como visualización",
+        ]
+      }
+    };
+
+    const langSelect = document.getElementById('langSelect');
+    let currentLang = langSelect.value;
+
+    function updateLanguage() {
+      document.getElementById('preamble').textContent = texts[currentLang].preamble;
+      document.getElementById('label-step1').textContent = texts[currentLang].steps[0];
+      document.getElementById('label-step2').textContent = texts[currentLang].steps[1];
+      document.getElementById('label-step2.5').textContent = texts[currentLang].steps[2];
+      document.getElementById('label-step3').textContent = texts[currentLang].steps[3];
+      document.getElementById('label-step3.1').textContent = texts[currentLang].steps[4];
+      document.getElementById('label-step3.2').textContent = texts[currentLang].steps[5];
+    }
+
+    langSelect.addEventListener('change', (e) => {
+      currentLang = e.target.value;
+      updateLanguage();
+    });
+
+    updateLanguage();
+
+    const engineSelector = document.getElementById('engine');
+    const chartSelector = document.getElementById('chart');
+
+    const chartsByEngine = {
+      d3: [
+        {value: 'bubble', text: 'Bubble'},
+        {value: 'network', text: 'Network'},
+        {value: 'treemap', text: 'Treemap'}
+      ],
+      three: [
+        {value: 'verticalNetwork', text: 'Vertical Network'}
+      ]
+    };
+
+    function updateCharts() {
+      const engine = engineSelector.value;
+      const options = chartsByEngine[engine] || [];
+
+      chartSelector.innerHTML = '';
+      options.forEach(opt => {
+        const optionEl = document.createElement('option');
+        optionEl.value = opt.value;
+        optionEl.text = opt.text;
+        chartSelector.appendChild(optionEl);
+      });
+    }
+
+    engineSelector.addEventListener('change', updateCharts);
+
+    updateCharts();
+    
+  </script>
 
   <script type="module" src="./src/main.js"></script>
   
